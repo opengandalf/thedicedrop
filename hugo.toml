@@ -1,0 +1,126 @@
+baseURL = "https://thedicedrop.com/"
+languageCode = "en-gb"
+title = "The Dice Drop"
+theme = "PaperMod"
+googleAnalytics = "G-JQ8XMPYJYE"
+images = ["images/og-default.png"]
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  title = "The Dice Drop"
+  description = "Board game analysis worth rolling for. Weekly trends, deep dives, crowdfunding watch, and the intersection of tabletop and digital gaming."
+  keywords = ["board games", "tabletop", "BGG", "D&D", "RPG", "crowdfunding", "digital board games"]
+  author = "The Dice Drop"
+  DateFormat = "2 January 2006"
+  defaultTheme = "light"
+  disableThemeToggle = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+
+  [params.homeInfoParams]
+    Title = "Board game analysis worth rolling for."
+    Content = """Deep dives, head-to-head comparisons, crowdfunding watch, and the trends shaping tabletop gaming in 2026.\n\n[Browse Deep Dives](/categories/deep-dives/) · [Comparisons](/categories/comparisons/) · [Crowdfunding](/categories/crowdfunding/) · [What to Play?](/what-to-play/)"""
+
+  [params.social]
+    twitter = "TheDiceDrop"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://x.com/TheDiceDrop"
+
+  [params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+    safari_pinned_tab = "/safari-pinned-tab.svg"
+    disableFingerprinting = true
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+  [params.label]
+    text = "The Dice Drop"
+    # icon = "/images/logo.png"
+    iconHeight = 35
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  identifier = "nav-boardgames"
+  name = "Board Games"
+  url = "/categories/board-games/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "nav-deepdives"
+  name = "Deep Dives"
+  url = "/categories/deep-dives/"
+  weight = 12
+
+[[menu.main]]
+  identifier = "nav-hotness"
+  name = "Hotness Tracker"
+  url = "/hotness-tracker/"
+  weight = 15
+
+[[menu.main]]
+  identifier = "nav-dnd"
+  name = "D&D & RPG"
+  url = "/categories/dnd-rpg/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "nav-crowdfunding"
+  name = "Crowdfunding"
+  url = "/categories/crowdfunding/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "nav-digital"
+  name = "Digital"
+  url = "/categories/digital/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "nav-whattoplay"
+  name = "What to Play?"
+  url = "/what-to-play/"
+  weight = 45
+
+[[menu.main]]
+  identifier = "nav-search"
+  name = "Search"
+  url = "/search/"
+  weight = 48
+
+[[menu.main]]
+  identifier = "nav-about"
+  name = "About"
+  url = "/about/"
+  weight = 50

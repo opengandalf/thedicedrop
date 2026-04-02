@@ -1,0 +1,94 @@
+{{- if .IsPage }}
+{{- $isReview := or (in .Params.tags "Deep Dive") (in .Params.tags "Review") (eq .Type "deep-dive") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": {{ if $isReview }}"Review"{{ else }}"Article"{{ end }},
+  "headline": {{ .Title | jsonify }},
+  "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | truncate 160 | jsonify }}{{ end }},
+  "url": {{ .Permalink | jsonify }},
+  "datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "author": {
+    "@type": "Organization",
+    "name": "The Dice Drop",
+    "url": "https://thedicedrop.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Dice Drop",
+    "url": "https://thedicedrop.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://thedicedrop.com/apple-touch-icon.png"
+    }
+  },
+  {{- with .Params.cover }}
+  "image": {
+    "@type": "ImageObject",
+    "url": {{ if .relative }}{{ (printf "%s%s" $.Permalink .image) | jsonify }}{{ else }}{{ .image | jsonify }}{{ end }}
+  },
+  {{- end }}
+  {{- if $isReview }}
+  "itemReviewed": {
+    "@type": "Game",
+    "name": {{ .Title | replaceRE `^(.*?)[:.!?].*` "$1" | replaceRE `\s+(Deep Dive|Review|vs\.?).*$` "" | jsonify }}
+  },
+  {{- end }}
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | jsonify }}
+  },
+  "wordCount": {{ .WordCount }},
+  "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }}, {{ end }}{{ $tag | jsonify }}{{ end }}]
+}
+</script>
+
+{{- /* Breadcrumb */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://thedicedrop.com/"
+    },
+    {{- with .Params.categories }}
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ index . 0 | jsonify }},
+      "item": {{ printf "https://thedicedrop.com/categories/%s/" (index . 0 | urlize) | jsonify }}
+    },
+    {{- end }}
+    {
+      "@type": "ListItem",
+      "position": {{ if .Params.categories }}3{{ else }}2{{ end }},
+      "name": {{ .Title | jsonify }},
+      "item": {{ .Permalink | jsonify }}
+    }
+  ]
+}
+</script>
+{{- end }}
+
+{{- /* WebSite schema on homepage */ -}}
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "The Dice Drop",
+  "url": "https://thedicedrop.com/",
+  "description": "Board game analysis worth rolling for. Weekly trends, deep dives, crowdfunding watch, and the intersection of tabletop and digital gaming.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Dice Drop",
+    "url": "https://thedicedrop.com/"
+  }
+}
+</script>
+{{- end }}

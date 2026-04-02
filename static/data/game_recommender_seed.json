@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Catan",
+    "player_count": "3-4",
+    "weight": "light",
+    "play_time": "60-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/13/catan",
+    "description": "Trade and build settlements on an island of hexagonal tiles."
+  },
+  {
+    "name": "Ticket to Ride",
+    "player_count": "2-5",
+    "weight": "light",
+    "play_time": "30-60",
+    "bgg_url": "https://boardgamegeek.com/boardgame/9209/ticket-to-ride",
+    "description": "Collect cards and claim railway routes across the map."
+  },
+  {
+    "name": "Pandemic",
+    "player_count": "2-4",
+    "weight": "medium",
+    "play_time": "45-60",
+    "bgg_url": "https://boardgamegeek.com/boardgame/30549/pandemic",
+    "description": "Cooperate to stop four deadly diseases from spreading worldwide."
+  },
+  {
+    "name": "Azul",
+    "player_count": "2-4",
+    "weight": "light",
+    "play_time": "30-45",
+    "bgg_url": "https://boardgamegeek.com/boardgame/230802/azul",
+    "description": "Draft colorful tiles and create beautiful mosaic patterns."
+  },
+  {
+    "name": "Wingspan",
+    "player_count": "1-5",
+    "weight": "medium",
+    "play_time": "40-70",
+    "bgg_url": "https://boardgamegeek.com/boardgame/266192/wingspan",
+    "description": "Attract birds to your wildlife preserve in this engine-building game."
+  },
+  {
+    "name": "7 Wonders",
+    "player_count": "2-7",
+    "weight": "medium",
+    "play_time": "30-45",
+    "bgg_url": "https://boardgamegeek.com/boardgame/68448/7-wonders",
+    "description": "Draft cards to develop your ancient civilization and build a wonder."
+  },
+  {
+    "name": "Codenames",
+    "player_count": "2-8",
+    "weight": "light",
+    "play_time": "15-30",
+    "bgg_url": "https://boardgamegeek.com/boardgame/178900/codenames",
+    "description": "Give one-word clues to help your team guess the right words."
+  },
+  {
+    "name": "Terraforming Mars",
+    "player_count": "1-5",
+    "weight": "heavy",
+    "play_time": "120-180",
+    "bgg_url": "https://boardgamegeek.com/boardgame/167791/terraforming-mars",
+    "description": "Compete as corporations to make Mars habitable for humanity."
+  },
+  {
+    "name": "Scythe",
+    "player_count": "1-5",
+    "weight": "heavy",
+    "play_time": "90-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/169786/scythe",
+    "description": "Control factions in an alternate 1920s with mechs and farming."
+  },
+  {
+    "name": "Gloomhaven",
+    "player_count": "1-4",
+    "weight": "heavy",
+    "play_time": "60-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/174430/gloomhaven",
+    "description": "Tactical combat dungeon crawler with a persistent campaign."
+  },
+  {
+    "name": "Spirit Island",
+    "player_count": "1-4",
+    "weight": "heavy",
+    "play_time": "90-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/162886/spirit-island",
+    "description": "Play as island spirits defending your home from colonizers."
+  },
+  {
+    "name": "Dominion",
+    "player_count": "2-4",
+    "weight": "medium",
+    "play_time": "30-45",
+    "bgg_url": "https://boardgamegeek.com/boardgame/36218/dominion",
+    "description": "Build your deck of cards to create the most efficient kingdom."
+  },
+  {
+    "name": "Splendor",
+    "player_count": "2-4",
+    "weight": "light",
+    "play_time": "30-45",
+    "bgg_url": "https://boardgamegeek.com/boardgame/148228/splendor",
+    "description": "Collect gem tokens to purchase development cards and earn prestige."
+  },
+  {
+    "name": "Carcassonne",
+    "player_count": "2-5",
+    "weight": "light",
+    "play_time": "30-45",
+    "bgg_url": "https://boardgamegeek.com/boardgame/822/carcassonne",
+    "description": "Place tiles to build a medieval landscape and claim features."
+  },
+  {
+    "name": "Root",
+    "player_count": "2-4",
+    "weight": "heavy",
+    "play_time": "60-90",
+    "bgg_url": "https://boardgamegeek.com/boardgame/237182/root",
+    "description": "Asymmetric woodland warfare where each faction plays differently."
+  },
+  {
+    "name": "Everdell",
+    "player_count": "1-4",
+    "weight": "medium",
+    "play_time": "40-80",
+    "bgg_url": "https://boardgamegeek.com/boardgame/199792/everdell",
+    "description": "Build a city of woodland critters through worker placement."
+  },
+  {
+    "name": "Ark Nova",
+    "player_count": "1-4",
+    "weight": "heavy",
+    "play_time": "90-150",
+    "bgg_url": "https://boardgamegeek.com/boardgame/342942/ark-nova",
+    "description": "Plan and build a modern zoo focused on conservation and science."
+  },
+  {
+    "name": "Brass: Birmingham",
+    "player_count": "2-4",
+    "weight": "heavy",
+    "play_time": "60-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/224517/brass-birmingham",
+    "description": "Build industries and networks in the English Midlands."
+  },
+  {
+    "name": "Cascadia",
+    "player_count": "1-4",
+    "weight": "light",
+    "play_time": "30-45",
+    "bgg_url": "https://boardgamegeek.com/boardgame/295947/cascadia",
+    "description": "Create habitats and populate them with Pacific Northwest wildlife."
+  },
+  {
+    "name": "Dune: Imperium",
+    "player_count": "1-4",
+    "weight": "medium",
+    "play_time": "60-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/316554/dune-imperium",
+    "description": "Deck-building meets worker placement on the desert planet Arrakis."
+  },
+  {
+    "name": "Viticulture",
+    "player_count": "1-6",
+    "weight": "medium",
+    "play_time": "45-90",
+    "bgg_url": "https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition",
+    "description": "Manage a vineyard in Tuscany through seasonal worker placement."
+  },
+  {
+    "name": "Blood Rage",
+    "player_count": "2-4",
+    "weight": "medium",
+    "play_time": "60-90",
+    "bgg_url": "https://boardgamegeek.com/boardgame/170216/blood-rage",
+    "description": "Lead Viking clans to glory before Ragnar\u00f6k destroys the world."
+  },
+  {
+    "name": "Concordia",
+    "player_count": "2-5",
+    "weight": "medium",
+    "play_time": "90-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/124361/concordia",
+    "description": "Trade and colonize the Mediterranean in ancient Roman times."
+  },
+  {
+    "name": "Patchwork",
+    "player_count": "2",
+    "weight": "light",
+    "play_time": "15-30",
+    "bgg_url": "https://boardgamegeek.com/boardgame/163412/patchwork",
+    "description": "Compete to build the most aesthetic quilt from Tetris-like patches."
+  },
+  {
+    "name": "Agricola",
+    "player_count": "1-5",
+    "weight": "heavy",
+    "play_time": "30-150",
+    "bgg_url": "https://boardgamegeek.com/boardgame/31260/agricola",
+    "description": "Develop your farm, raise livestock, and feed your family."
+  },
+  {
+    "name": "Great Western Trail",
+    "player_count": "2-4",
+    "weight": "heavy",
+    "play_time": "75-150",
+    "bgg_url": "https://boardgamegeek.com/boardgame/193738/great-western-trail",
+    "description": "Drive cattle from Texas to Kansas City along the trail."
+  },
+  {
+    "name": "King of Tokyo",
+    "player_count": "2-6",
+    "weight": "light",
+    "play_time": "30-45",
+    "bgg_url": "https://boardgamegeek.com/boardgame/70323/king-of-tokyo",
+    "description": "Play as mutant monsters battling for control of Tokyo."
+  },
+  {
+    "name": "Clank!",
+    "player_count": "2-4",
+    "weight": "medium",
+    "play_time": "30-60",
+    "bgg_url": "https://boardgamegeek.com/boardgame/201808/clank-a-deck-building-adventure",
+    "description": "Sneak into a dragon's lair to steal treasure using deck-building."
+  },
+  {
+    "name": "Mysterium",
+    "player_count": "2-7",
+    "weight": "light",
+    "play_time": "45-60",
+    "bgg_url": "https://boardgamegeek.com/boardgame/181304/mysterium",
+    "description": "A ghost sends visions to psychics to solve a murder mystery."
+  },
+  {
+    "name": "Power Grid",
+    "player_count": "2-6",
+    "weight": "heavy",
+    "play_time": "120-180",
+    "bgg_url": "https://boardgamegeek.com/boardgame/2651/power-grid",
+    "description": "Build power plants and supply electricity to cities across the network."
+  },
+  {
+    "name": "Race for the Galaxy",
+    "player_count": "2-4",
+    "weight": "medium",
+    "play_time": "30-60",
+    "bgg_url": "https://boardgamegeek.com/boardgame/28143/race-for-the-galaxy",
+    "description": "Build a galactic civilization through simultaneous card play."
+  },
+  {
+    "name": "Sushi Go Party!",
+    "player_count": "2-8",
+    "weight": "light",
+    "play_time": "15-30",
+    "bgg_url": "https://boardgamegeek.com/boardgame/192291/sushi-go-party",
+    "description": "Draft adorable sushi cards to score the most points."
+  },
+  {
+    "name": "Quacks of Quedlinburg",
+    "player_count": "2-4",
+    "weight": "light",
+    "play_time": "45-60",
+    "bgg_url": "https://boardgamegeek.com/boardgame/244521/the-quacks-of-quedlinburg",
+    "description": "Push your luck brewing potions as rival quack doctors."
+  },
+  {
+    "name": "Star Wars: Rebellion",
+    "player_count": "2-4",
+    "weight": "heavy",
+    "play_time": "180-240",
+    "bgg_url": "https://boardgamegeek.com/boardgame/187645/star-wars-rebellion",
+    "description": "Epic galactic conflict between the Empire and Rebel Alliance."
+  },
+  {
+    "name": "Cosmic Encounter",
+    "player_count": "3-5",
+    "weight": "medium",
+    "play_time": "60-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/39463/cosmic-encounter",
+    "description": "Negotiate, ally, and betray other alien species to colonize planets."
+  },
+  {
+    "name": "Twilight Imperium",
+    "player_count": "3-6",
+    "weight": "heavy",
+    "play_time": "240-480",
+    "bgg_url": "https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition",
+    "description": "An epic space opera of galactic domination and political intrigue."
+  },
+  {
+    "name": "Nemesis",
+    "player_count": "1-5",
+    "weight": "heavy",
+    "play_time": "90-180",
+    "bgg_url": "https://boardgamegeek.com/boardgame/167355/nemesis",
+    "description": "Survive alien intruders on a spaceship with hidden objectives."
+  },
+  {
+    "name": "Photosynthesis",
+    "player_count": "2-4",
+    "weight": "medium",
+    "play_time": "30-60",
+    "bgg_url": "https://boardgamegeek.com/boardgame/218603/photosynthesis",
+    "description": "Grow trees in a forest competing for sunlight as it moves."
+  },
+  {
+    "name": "Calico",
+    "player_count": "1-4",
+    "weight": "light",
+    "play_time": "30-45",
+    "bgg_url": "https://boardgamegeek.com/boardgame/283155/calico",
+    "description": "Design a cozy quilt to attract the cuddliest cats."
+  },
+  {
+    "name": "Dixit",
+    "player_count": "3-8",
+    "weight": "light",
+    "play_time": "30-45",
+    "bgg_url": "https://boardgamegeek.com/boardgame/39856/dixit",
+    "description": "Use dreamlike illustrations to tell stories and guess clues."
+  },
+  {
+    "name": "Undaunted: Normandy",
+    "player_count": "2",
+    "weight": "medium",
+    "play_time": "45-60",
+    "bgg_url": "https://boardgamegeek.com/boardgame/268864/undaunted-normandy",
+    "description": "WWII deck-building tactical combat across Normandy scenarios."
+  },
+  {
+    "name": "Clank! In! Space!",
+    "player_count": "2-4",
+    "weight": "medium",
+    "play_time": "60-90",
+    "bgg_url": "https://boardgamegeek.com/boardgame/233371/clank-in-space",
+    "description": "Sneak aboard an evil lord's spaceship to steal artifacts."
+  },
+  {
+    "name": "Hive",
+    "player_count": "2",
+    "weight": "medium",
+    "play_time": "20-30",
+    "bgg_url": "https://boardgamegeek.com/boardgame/2655/hive",
+    "description": "Abstract strategy with insect tiles \u2014 surround the opponent's queen."
+  },
+  {
+    "name": "The Crew",
+    "player_count": "2-5",
+    "weight": "light",
+    "play_time": "20-30",
+    "bgg_url": "https://boardgamegeek.com/boardgame/284083/the-crew-the-quest-for-planet-nine",
+    "description": "Cooperative trick-taking in a space-themed mission campaign."
+  },
+  {
+    "name": "Jaipur",
+    "player_count": "2",
+    "weight": "light",
+    "play_time": "20-30",
+    "bgg_url": "https://boardgamegeek.com/boardgame/54043/jaipur",
+    "description": "Trade goods in an Indian market to become the Maharaja's merchant."
+  },
+  {
+    "name": "Santorini",
+    "player_count": "2-4",
+    "weight": "light",
+    "play_time": "15-30",
+    "bgg_url": "https://boardgamegeek.com/boardgame/194655/santorini",
+    "description": "Build towers on the Greek island and race to the top."
+  },
+  {
+    "name": "Oath",
+    "player_count": "1-6",
+    "weight": "heavy",
+    "play_time": "45-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/291572/oath",
+    "description": "A living game of politics and power that changes between plays."
+  },
+  {
+    "name": "Marvel Champions",
+    "player_count": "1-4",
+    "weight": "medium",
+    "play_time": "45-90",
+    "bgg_url": "https://boardgamegeek.com/boardgame/285774/marvel-champions-the-card-game",
+    "description": "Play as Marvel heroes fighting villains in a cooperative LCG."
+  },
+  {
+    "name": "Res Arcana",
+    "player_count": "2-4",
+    "weight": "medium",
+    "play_time": "30-60",
+    "bgg_url": "https://boardgamegeek.com/boardgame/262712/res-arcana",
+    "description": "Alchemists compete using a tiny deck of powerful artifacts."
+  },
+  {
+    "name": "Lost Ruins of Arnak",
+    "player_count": "1-4",
+    "weight": "medium",
+    "play_time": "60-120",
+    "bgg_url": "https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak",
+    "description": "Explore a mysterious island combining deck-building and worker placement."
+  }
+]

@@ -1,0 +1,22 @@
+<!-- Follow banner — always visible near the top -->
+<div class="follow-banner" style="text-align:center;padding:0.8rem 1rem;margin-bottom:0.5rem;background:linear-gradient(135deg,#f5efe6 0%,#faf7f2 50%,#f0e8d8 100%);border:1px solid #e8dcc8;border-radius:10px;">
+    <a href="https://x.com/TheDiceDrop" target="_blank" rel="noopener"
+       style="display:inline-flex;align-items:center;gap:0.5rem;padding:0.6rem 1.6rem;background:#c88400;color:#fff;font-weight:700;font-size:1rem;border-radius:999px;text-decoration:none;box-shadow:0 2px 12px rgba(200,132,0,0.3);transition:all 0.2s ease;">
+        𝕏 Follow @TheDiceDrop
+    </a>
+    <p style="color:#8a7560;font-size:0.82rem;margin:0.5rem 0 0;">Board game takes, deep dives & hot takes — daily on 𝕏</p>
+</div>
+
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}

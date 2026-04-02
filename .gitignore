@@ -1,0 +1,4 @@
+public/
+data/bgg_api_cache/
+__pycache__/
+*.db

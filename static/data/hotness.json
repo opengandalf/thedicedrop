@@ -1,0 +1,145 @@
+{
+  "updated": "2026-04-01T05:30:05.689287+00:00",
+  "games": [
+    {
+      "rank": 1,
+      "id": 467694,
+      "name": "The Lord of the Rings: The King's Gambit",
+      "thumbnail": "https://cf.geekdo-images.com/Oys-FI2abuOyZwJ8uQGWdw__small/img/oAB-09ALRxzLSCRWEZBbxS0m4ik=/fit-in/200x150/filters:strip_icc()/pic9488951.jpg",
+      "year": "2027"
+    },
+    {
+      "rank": 2,
+      "id": 939,
+      "name": "Star Wars: The Queen's Gambit",
+      "thumbnail": "https://cf.geekdo-images.com/bz5nHaO3qAqNRKV4jketEQ__small/img/NX6F33Zk93mJFnP6gwlxsdKHh_0=/fit-in/200x150/filters:strip_icc()/pic35506.jpg",
+      "year": "2000"
+    },
+    {
+      "rank": 3,
+      "id": 452264,
+      "name": "Brass: Pittsburgh",
+      "thumbnail": "https://cf.geekdo-images.com/VBrxRvZ2P2JKfa996LYc0A__small/img/-zi9hmfzd9EpVMQ1TrpsEH_sXGQ=/fit-in/200x150/filters:strip_icc()/pic9044742.jpg",
+      "year": "2027"
+    },
+    {
+      "rank": 4,
+      "id": 357873,
+      "name": "The Old King's Crown",
+      "thumbnail": "https://cf.geekdo-images.com/q3Qp4L-rU3VOW6fMAFUJnQ__small/img/wLX_C6w13ebCON4euesUohQE_Ck=/fit-in/200x150/filters:strip_icc()/pic8937255.jpg",
+      "year": "2025"
+    },
+    {
+      "rank": 5,
+      "id": 436217,
+      "name": "The Lord of the Rings: Fate of the Fellowship",
+      "thumbnail": "https://cf.geekdo-images.com/scw36iBIad7l-rGzxPGcGg__small/img/dyMBa6SBkPwpWfA4FINqbX8RNDQ=/fit-in/200x150/filters:strip_icc()/pic8662670.png",
+      "year": "2025"
+    },
+    {
+      "rank": 6,
+      "id": 224517,
+      "name": "Brass: Birmingham",
+      "thumbnail": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__small/img/o18rjEemoWaVru9Y2TyPwuIaRfE=/fit-in/200x150/filters:strip_icc()/pic3490053.jpg",
+      "year": "2018"
+    },
+    {
+      "rank": 7,
+      "id": 434367,
+      "name": "Nippon: Zaibatsu",
+      "thumbnail": "https://cf.geekdo-images.com/bOs_Um4cUUOpKnypCMykJA__small/img/WLGTv9N3yOkGWZSki-c0nc-L_oY=/fit-in/200x150/filters:strip_icc()/pic8844519.png",
+      "year": "2026"
+    },
+    {
+      "rank": 8,
+      "id": 338960,
+      "name": "Slay the Spire: The Board Game",
+      "thumbnail": "https://cf.geekdo-images.com/PQzVclEoOQ_wr4e1V86kxA__small/img/cpmsSDagE5RvQ1ERXl-fMJIaUUg=/fit-in/200x150/filters:strip_icc()/pic8157856.png",
+      "year": "2024"
+    },
+    {
+      "rank": 9,
+      "id": 418059,
+      "name": "SETI: Search for Extraterrestrial Intelligence",
+      "thumbnail": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__small/img/icamIZ4nP3HHH3vczZqTr1hQgKY=/fit-in/200x150/filters:strip_icc()/pic8160466.jpg",
+      "year": "2024"
+    },
+    {
+      "rank": 10,
+      "id": 359871,
+      "name": "Arcs",
+      "thumbnail": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__small/img/Ry-6KHwNgERWadyxs1X1_P3dMvY=/fit-in/200x150/filters:strip_icc()/pic8145530.png",
+      "year": "2024"
+    },
+    {
+      "rank": 11,
+      "id": 415845,
+      "name": "Grimcoven",
+      "thumbnail": "https://cf.geekdo-images.com/wbP3u5-2a_0yXbENaI6zDQ__small/img/_UB9-s3f9lpfydYnOcZaZo7FB3g=/fit-in/200x150/filters:strip_icc()/pic8061469.png",
+      "year": "2025"
+    },
+    {
+      "rank": 12,
+      "id": 366013,
+      "name": "Heat: Pedal to the Metal",
+      "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__small/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+      "year": "2022"
+    },
+    {
+      "rank": 13,
+      "id": 465819,
+      "name": "Concordia: Special Edition",
+      "thumbnail": "https://cf.geekdo-images.com/t09C6AsUI_ApPp1wm6XH-A__small/img/lWiEAHzffNgUril8iJFaFaLWq-g=/fit-in/200x150/filters:strip_icc()/pic9437664.jpg",
+      "year": "2027"
+    },
+    {
+      "rank": 14,
+      "id": 342942,
+      "name": "Ark Nova",
+      "thumbnail": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__small/img/4KuHNTWSMPf8vTNDKSRMMI3oOv8=/fit-in/200x150/filters:strip_icc()/pic6293412.jpg",
+      "year": "2021"
+    },
+    {
+      "rank": 15,
+      "id": 337627,
+      "name": "Voidfall",
+      "thumbnail": "https://cf.geekdo-images.com/hItZjdDTNuaCZ7fEztwcUQ__small/img/Ov6eWR87PZ2O1XYQtXMO6KvfzOg=/fit-in/200x150/filters:strip_icc()/pic6153324.jpg",
+      "year": "2023"
+    },
+    {
+      "rank": 16,
+      "id": 345013,
+      "name": "Phantom Epoch",
+      "thumbnail": "https://cf.geekdo-images.com/OCw6vmmnQ5eTp_pbksBjUA__small/img/RWrElnea9vIitKUR0sy4qmEe4VI=/fit-in/200x150/filters:strip_icc()/pic6344173.jpg",
+      "year": "2025"
+    },
+    {
+      "rank": 17,
+      "id": 177478,
+      "name": "IKI",
+      "thumbnail": "https://cf.geekdo-images.com/ypE6HrTY1Xvpt1XCpKlMBw__small/img/25aN_TPIrOU6S7_1V31lVwsr3iA=/fit-in/200x150/filters:strip_icc()/pic5960068.png",
+      "year": "2015"
+    },
+    {
+      "rank": 18,
+      "id": 454103,
+      "name": "Magical Athlete",
+      "thumbnail": "https://cf.geekdo-images.com/1uW8t9AkuqOF0xjv_sXKgw__small/img/tWEmoT1EaoYUpbwrTGCLMHaaZGs=/fit-in/200x150/filters:strip_icc()/pic9106864.png",
+      "year": "2025"
+    },
+    {
+      "rank": 19,
+      "id": 205637,
+      "name": "Arkham Horror: The Card Game",
+      "thumbnail": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__small/img/L8ouPl5jv2Ye9MC4R_Os2zSGigE=/fit-in/200x150/filters:strip_icc()/pic3122349.jpg",
+      "year": "2016"
+    },
+    {
+      "rank": 20,
+      "id": 397598,
+      "name": "Dune: Imperium – Uprising",
+      "thumbnail": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__small/img/H6qmxJrRFjtOAPZOfDoZ480-46I=/fit-in/200x150/filters:strip_icc()/pic7664424.jpg",
+      "year": "2023"
+    }
+  ]
+}
