@@ -136,8 +136,6 @@ Used copies at $35-45 against a $50 retail point are perfectly healthy, and the 
 
 This is the rare crossover hit that hobby veterans and normal human beings both want to play again.
 
- box art")
-
 ![Heat: Pedal to the Metal](images/heat-pedal-to-the-metal-cover.jpg)
 
 
