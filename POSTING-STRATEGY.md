@@ -63,6 +63,23 @@ Blog articles should use real game images with publisher credit wherever possibl
 - "[game name] review / analysis"
 - "D&D gatekeeping / game design"
 
+## Deep Dive Articles (updated 2026-04-04)
+Deep dives are our best content. Do them more often — at least 2-3 per week across both sites.
+
+### Reviews: Read widely before writing
+- Pull **10-20 player reviews** (Steam for IndieGameDrop, BGG for TheDiceDrop)
+- Read both positive AND negative reviews — the best insights come from critical ones
+- Quote real players in the article (paraphrased or direct) to ground opinions in actual experience
+- Don't just summarise the store page — the value is in synthesising what players are actually saying
+
+### Screenshots: Multiple per article (MANDATORY)
+- **Minimum 3-4 screenshots** per deep dive, more for longer pieces
+- Use official Steam screenshots (`https://cdn.akamai.steamstatic.com/steam/apps/{appid}/ss_{hash}.jpg`)
+- For board games: BGG user photos, publisher component shots, gameplay photos
+- Screenshots should illustrate specific points (e.g. show the water system when discussing water mechanics)
+- Cover image + inline screenshots — don't front-load everything at the top
+- Caption every screenshot with context ("Nova Roma's dam system redirecting floodwater")
+
 ## Attribution Rules
 - Always credit publishers for box art
 - AI-generated images marked with "🎨 AI-generated art" in caption
