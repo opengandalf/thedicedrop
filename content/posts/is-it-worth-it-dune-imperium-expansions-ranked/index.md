@@ -70,7 +70,7 @@ If [Rise of Ix](https://boardgamegeek.com/boardgame/342031) is the obvious upgra
 
 
 
-![Immortality](images/immortality-cover.jpg)
+![Dune: Imperium - Immortality](images/dune-imperium-immortality-correct.jpg)
 
 
 [Immortality](https://boardgamegeek.com/boardgame/367466) is much weirder. Appropriately so, given the Tleilaxu are involved.
