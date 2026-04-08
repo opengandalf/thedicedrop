@@ -42,6 +42,8 @@ This comparison looks at exactly that. Below, we'll compare complexity, theme, r
 | Table Presence | Attractive cave tableau and dragon art | One of the cutest tables in modern board gaming | 🏆 Flamecraft |
 | Learning Curve | More systems, more icon friction | Much easier teach | 🏆 Flamecraft |
 
+![Flamecraft box art](images/flamecraft-cover.jpg)
+
 [Wyrmspan](https://boardgamegeek.com/boardgame/410201/wyrmspan) was published in 2024, plays 1-5, runs about 90 minutes, carries a 7.96 rating from 15,216 ratings, and sits at #123 on BGG. [Flamecraft](https://boardgamegeek.com/boardgame/336986/flamecraft) came out in 2022, also plays 1-5, runs about 60 minutes, has a 7.37 rating from 20,985 ratings, and sits at #396. That already tells part of the story. Wyrmspan is the more highly regarded game in hobby circles. Flamecraft is the easier one to get to the table.
 
 ## The core difference: private puzzle versus shared village
@@ -50,7 +52,7 @@ This is where the decision starts.
 
 In [Wyrmspan](https://boardgamegeek.com/boardgame/410201/wyrmspan), you're building your own little dragon economy. Before you even get to the fun part of stuffing dragons into your tableau, you need to excavate cave spaces. That matters. It means progression is gated. You are not simply playing a good card because you drew it. You are asking, can I open the right cave, in the right row, get the right resources, and line up the ability timing so this dragon actually pays off?
 
-![Wyrmspan (cards)](images/wyrmspan-cards-cover.jpg)")
+![Wyrmspan cards and dragon art](images/wyrmspan-cards-cover.jpg)
 
 
 That extra layer is the whole point. Your tableau develops in stages. The cave itself is part of the puzzle.
@@ -94,6 +96,8 @@ Wyrmspan is worth learning. But Flamecraft is easier by a country mile.
 Once the rules question is out of the way, theme is the next obvious divider.
 
 [Wyrmspan](https://boardgamegeek.com/boardgame/410201/wyrmspan) gives you the grander fantasy. You're an amateur dracologist excavating a hidden labyrinth and enticing dragons into it. It's imaginative, and the fact that the dragons are all invented gives the design room to be playful. There is something satisfying about opening up cave slots and populating them with increasingly weird beasts.
+
+![Flamecraft gameplay with artisan dragon shops](images/flamecraft-gameplay-1.jpg "Photo via BoardGameGeek community")
 
 But [Flamecraft](https://boardgamegeek.com/boardgame/336986/flamecraft) absolutely nails its setting. Tiny artisan dragons helping bakers, smiths, and potion shops is such a ridiculous pitch, and it works immediately. People sit down, see the art, and smile. Not a polite "that's nice" smile. A real one. The sort that gets the game bought in the first place.
 
