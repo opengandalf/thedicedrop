@@ -34,6 +34,8 @@ It's also quick, widely available, and dangerously replayable for something this
 
 Still, as a first lesson in economic pacing and efficiency, it's excellent.
 
+![Splendor](images/splendor-cover.jpg "Splendor — Gateway+")
+
 What it introduces:
 - Engine-building
 - Efficiency maths
@@ -116,6 +118,8 @@ After a game about shared incentives, the natural next lesson is space. Actual m
 
 [Scythe](https://boardgamegeek.com/boardgame/169786) is the medium-weight civ-adjacent game I'd put in front of someone who wants conflict on the board without diving straight into a lifestyle game. It blends engine building, area control, worker placement, and combat in a way that looks far meaner than it often is. The giant mechs do a lot of marketing.
 
+![Scythe](images/scythe-cover.jpg "Scythe — Medium+")
+
 Underneath that gorgeous art and those hulking m[inis](/posts/games-like-inis/) is a game about tempo. Produce, move, upgrade, deploy, enlist. Push your faction board and player mat into a slick personal engine, then use position on the map to convert that efficiency into stars and points.
 
 What it introduces:
@@ -165,6 +169,8 @@ It's also fiddly in physical form, mentally exhausting, and absolutely not a cas
 If [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028) is pure systems mastery, [Twilight Imperium: Fourth Edition](https://boardgamegeek.com/boardgame/233078) is the final boss. Not because the rules are harder. Because *everything else* is.
 
 This is the big event game. The one people schedule three weeks in advance and then cancel because somebody's child has a temperature.
+
+![Twilight Imperium: Fourth Edition](images/twilight-imperium-4th-edition-cover.jpg "Twilight Imperium: Fourth Edition — Heavy")
 
 [Twilight Imperium: Fourth Edition](https://boardgamegeek.com/boardgame/233078) is where civilisation gaming stops being just systems mastery and becomes social theatre. You're still building your economy, researching technology, expanding fleets, and chasing objectives. But now politics matters. Negotiation matters. Threat assessment matters. Promises matter, right up until they don't.
 
