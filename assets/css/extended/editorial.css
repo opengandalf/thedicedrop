@@ -1,0 +1,108 @@
+/* Editorial — visual differentiation for bylined posts */
+
+.editorial-hero {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  padding: 3rem 0 2rem;
+  border-bottom: 3px solid #b36a00;
+  margin-bottom: 2rem;
+}
+
+.editorial-hero__photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 3px solid #b36a00;
+}
+
+.editorial-hero__meta { flex: 1; }
+
+.editorial-hero__eyebrow {
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #b36a00;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.editorial-hero__title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 2.4rem;
+  line-height: 1.2;
+  margin: 0 0 0.5rem;
+  color: #1a1a1a;
+}
+
+.editorial-hero__subtitle {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 0.25rem;
+}
+
+.editorial-hero__date {
+  font-size: 0.85rem;
+  color: #999;
+}
+
+/* Serif body for editorial posts */
+.editorial-post .post-content {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.editorial-post .post-content blockquote {
+  border-left: 4px solid #b36a00;
+  padding-left: 1.5rem;
+  font-style: italic;
+}
+
+/* Editorial badge in listings */
+.editorial-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #b36a00;
+  background: rgba(179, 106, 0, 0.1);
+  padding: 2px 8px;
+  border-radius: 3px;
+  margin-right: 0.5rem;
+  font-weight: 700;
+}
+
+/* Editorial list cards */
+.editorial-card {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.editorial-card__inner {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  padding: 1.5rem;
+}
+
+.editorial-card__photo-col { flex-shrink: 0; }
+
+.editorial-card__photo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #b36a00;
+}
+
+.editorial-card__content { flex: 1; }
+
+/* Mobile */
+@media (max-width: 600px) {
+  .editorial-hero { flex-direction: column; text-align: center; padding: 2rem 0 1.5rem; }
+  .editorial-hero__title { font-size: 1.8rem; }
+  .editorial-card__inner { flex-direction: column; }
+}
