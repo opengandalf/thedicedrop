@@ -11,7 +11,7 @@ images = ["images/og-default.png"]
   env = "production"
   title = "The Dice Drop"
   description = "Board game analysis worth rolling for. Weekly trends, deep dives, crowdfunding watch, and the intersection of tabletop and digital gaming."
-  keywords = ["board games", "tabletop", "BGG", "D&D", "RPG", "crowdfunding", "digital board games"]
+  keywords = ["board games", "tabletop", "BGG", "crowdfunding", "digital board games"]
   author = "The Dice Drop"
   DateFormat = "2 January 2006"
   defaultTheme = "light"
@@ -88,12 +88,6 @@ images = ["images/og-default.png"]
   name = "Hotness Tracker"
   url = "/hotness-tracker/"
   weight = 15
-
-[[menu.main]]
-  identifier = "nav-dnd"
-  name = "D&D & RPG"
-  url = "/categories/dnd-rpg/"
-  weight = 20
 
 [[menu.main]]
   identifier = "nav-crowdfunding"
