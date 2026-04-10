@@ -17,7 +17,7 @@ Built by [Bartosz Jedrzejewski](https://x.com/e4developer), a board game enthusi
 
 We write about board games the way people actually talk about them. Not press releases. Not unboxing content. Not "everything is great, 8 out of 10."
 
-We track [BGG Hotness](https://boardgamegeek.com/hotness) trends, dig into crowdfunding campaigns, compare games head-to-head, and tell you which ones are actually worth your money and shelf space. We also cover D&D, RPGs, and where physical and digital tabletop gaming collide.
+We track [BGG Hotness](https://boardgamegeek.com/hotness) trends, dig into crowdfunding campaigns, compare games head-to-head, and tell you which ones are actually worth your money and shelf space. We also cover where physical and digital board game experiences collide.
 
 ## Our Approach
 
