@@ -1,0 +1,43 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description }}</div>
+  {{- end }}
+</header>
+
+{{- $editorialPages := where site.RegularPages ".Params.editorial" true }}
+{{- range $editorialPages }}
+<article class="post-entry editorial-card">
+  <div class="editorial-card__inner">
+    <div class="editorial-card__photo-col">
+      <img class="editorial-card__photo" src="/images/authors/bartosz.png" alt="Bartosz Jedrzejewski">
+    </div>
+    <div class="editorial-card__content">
+      <header class="entry-header">
+        <span class="editorial-badge">Editorial</span>
+        <h2 class="entry-header-h2">{{ .Title }}</h2>
+      </header>
+      {{- if (ne (.Param "hideSummary") true) }}
+      <div class="entry-content">
+        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+      </div>
+      {{- end }}
+      <div class="post-meta">
+        <span>{{ .Date.Format "January 2, 2006" }}</span>
+        {{- if (.Param "ShowReadingTime") }}
+        <span>&middot; {{ .ReadingTime }} min read</span>
+        {{- end }}
+      </div>
+    </div>
+  </div>
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+
+{{- if not $editorialPages }}
+<p>No editorial articles yet. Check back soon.</p>
+{{- end }}
+
+{{- end }}{{/* end main */}}

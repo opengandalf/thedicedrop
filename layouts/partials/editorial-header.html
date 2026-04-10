@@ -1,0 +1,11 @@
+{{- if .Params.editorial }}
+<div class="editorial-hero">
+  <img class="editorial-hero__photo" src="/images/authors/bartosz.png" alt="Bartosz J&#281;drzejewski">
+  <div class="editorial-hero__meta">
+    <div class="editorial-hero__eyebrow">Editorial</div>
+    <h1 class="editorial-hero__title">{{ .Title }}</h1>
+    <div class="editorial-hero__subtitle">An editorial pick by Bartosz J&#281;drzejewski &middot; Engineering Manager, Meta Superintelligence Labs</div>
+    <div class="editorial-hero__date">{{ .Date.Format "January 2, 2006" }}</div>
+  </div>
+</div>
+{{- end }}

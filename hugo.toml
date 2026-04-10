@@ -84,6 +84,12 @@ images = ["images/og-default.png"]
   weight = 12
 
 [[menu.main]]
+  identifier = "nav-editorial"
+  name = "Editorial"
+  url = "/editorial/"
+  weight = 13
+
+[[menu.main]]
   identifier = "nav-hotness"
   name = "Hotness Tracker"
   url = "/hotness-tracker/"
