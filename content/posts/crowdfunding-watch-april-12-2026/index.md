@@ -23,9 +23,9 @@ images:
 
 April continues to be one of the most stacked crowdfunding months in recent memory. Between a record-shattering TCG, a new entry in the Brass dynasty, and expansions for some of the hobby's most beloved titles, there's a lot competing for your wallet this week. Here's what you need to know.
 
-## 🔥 The Big One: Brass: Pittsburgh
+## 🔥 The Big One: [Brass: Pittsburgh](https://gamefound.com/en/projects/roxley/brass-pittsburgh)
 
-**Platform:** Gamefound | **Pledge:** $79+ | **Status:** Over €4.2 million raised | **Ending: TODAY (April 12th)**
+**Platform:** [Gamefound](https://gamefound.com/en/projects/roxley/brass-pittsburgh) | **Pledge:** $79+ | **Status:** Over €4.2 million raised | **Ending: TODAY (April 12th)**
 
 ![Brass: Pittsburgh box art](images/brass-pittsburgh-cover.png "Photo via BoardGameGeek. Brass: Pittsburgh.")
 
@@ -39,9 +39,9 @@ The good news: it isn't just a reskin. Pittsburgh introduces new mechanics while
 
 ---
 
-## 🚀 Arcs: Beyond the Reach
+## 🚀 [Arcs: Beyond the Reach](https://www.kickstarter.com/projects/colewehrle/arcs-beyond-the-reach)
 
-**Platform:** Kickstarter | **Status:** Funded and surging | **Pledge:** Varies by add-on
+**Platform:** [Kickstarter](https://www.kickstarter.com/projects/colewehrle/arcs-beyond-the-reach) | **Status:** Funded and surging | **Pledge:** Varies by add-on
 
 ![Arcs box art](images/arcs-cover.png "Photo via BoardGameGeek. Arcs.")
 
@@ -55,9 +55,9 @@ Lost Vaults adds new edifices, a bastion for defensive play, and the Stone Road 
 
 ---
 
-## ⚡ Barrage: Earned Authority
+## ⚡ [Barrage: Earned Authority](https://www.kickstarter.com/projects/craniocreations/barrage-the-legendary-box)
 
-**Platform:** Kickstarter | **Status:** Live and funded
+**Platform:** [Kickstarter](https://www.kickstarter.com/projects/craniocreations/barrage-the-legendary-box) | **Status:** Live and funded
 
 ![Barrage box art](images/barrage-cover.png "Photo via BoardGameGeek. Barrage.")
 
@@ -71,9 +71,9 @@ Lost Vaults adds new edifices, a bastion for defensive play, and the Stone Road 
 
 ---
 
-## 🗡️ Here to Slay: Dungeons
+## 🗡️ [Here to Slay: Dungeons](https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons)
 
-**Platform:** Gamefound | **Status:** Over €3.2 million raised
+**Platform:** [Gamefound](https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons) | **Status:** Over €3.2 million raised
 
 ![Here to Slay box art](images/here-to-slay-cover.jpg "Photo via BoardGameGeek. Here to Slay.")
 
@@ -90,6 +90,7 @@ The campaign offers three standalone-but-combinable base boxes, each with four h
 ## 🎨 The Indie Pick: Concrete Canvas
 
 **Platform:** Kickstarter | **Status:** Funded (€24K+)
+**Campaign:** Search "Concrete Canvas" on Kickstarter
 
 ![Concrete Canvas box art](images/concrete-canvas-cover.png "Photo via BoardGameGeek. Concrete Canvas.")
 
@@ -105,7 +106,7 @@ The game ends when someone runs out of legal moves, and scoring is based on artw
 
 ## 💀 Record Breaker: Cyberpunk Trading Card Game
 
-**Platform:** Kickstarter | **Status:** Over €14 million — most funded TCG campaign ever
+**Platform:** Kickstarter | **Status:** Over €14 million - most funded TCG campaign ever
 
 ![Cyberpunk TCG box art](images/cyberpunk-tcg-cover.png "Photo via BoardGameGeek. Cyberpunk Trading Card Game.")
 
