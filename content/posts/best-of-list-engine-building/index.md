@@ -21,152 +21,118 @@ images:
   - "images/og-card.jpg"
 ---
 
-There's nothing quite like the feeling of watching your board game engine *click*. That moment when everything you've been building snaps into place and suddenly you're generating resources, points, or combos at a rate that felt impossible three turns ago — that's the magic of engine building.
+There's something deeply satisfying about watching a machine you built come to life. You start a game with nothing — maybe a few coins, a handful of cards — and by the end you've assembled an intricate contraption of combos and synergies that practically plays itself. That's engine building: the mechanic where every decision compounds, every piece you add makes your whole system stronger, and your final turns feel like a victory lap.
 
-It's one of the most satisfying mechanics in all of tabletop gaming, and it shows up everywhere from breezy 30-minute card games to brain-burning economic simulations. Whether you're new to the hobby or a seasoned veteran looking for your next obsession, there's an engine builder out there for you.
+Engine building is arguably the most beloved mechanic in modern board gaming, and for good reason. It scratches that optimisation itch while rewarding long-term planning. Whether you're collecting gems, terraforming planets, or building a zoo, the core loop is the same: invest now, reap later, and try to build something more efficient than everyone else at the table.
 
-Here are our ten favourites, ordered from most accessible to most complex.
-
----
+Here are the 10 best engine building board games, ordered from most accessible to most complex.
 
 ## 1. Splendor
 
 ![Splendor](images/splendor-cover.jpg)
 
-**BGG Weight:** 1.78 · **Players:** 2–4 · **Play Time:** 30 min
+**BGG Weight:** 1.8 · **Players:** 2–4 · **Play Time:** 30 min · [View on BGG](https://boardgamegeek.com/boardgame/148228)
 
-[Splendor](https://boardgamegeek.com/boardgame/148228) is the gateway drug of engine building. You collect gem tokens, buy cards that give you permanent gem discounts, and use those discounts to buy better cards. It's an elegant feedback loop that teaches the core concept of engine building without ever feeling overwhelming.
+[Splendor](https://boardgamegeek.com/boardgame/148228) is the gateway drug. You collect gem tokens, buy cards that give you permanent gem discounts, and use those discounts to buy better cards. It's engine building stripped to its purest form — no fluff, no bloat, just satisfying escalation.
 
-The beauty of Splendor is its simplicity. Turns take seconds, but the decisions underneath are crunchy enough to keep experienced players engaged. It's the game I reach for when introducing someone to modern board games, and it still hits the table years later. Those chunky poker-chip tokens don't hurt either.
-
-**Best for:** Newcomers, families, anyone who wants a satisfying engine in under 30 minutes.
-
----
+What makes Splendor special isn't its complexity but its *clarity*. Within two turns, new players understand what they're doing and why. Within five, they're plotting three moves ahead. The poker-chip gems are absurdly tactile, and the whole thing wraps up in 30 minutes. If you've never played an engine builder, start here.
 
 ## 2. Century: Spice Road
 
 ![Century: Spice Road](images/century-spice-road-cover.jpg)
 
-**BGG Weight:** 1.80 · **Players:** 2–5 · **Play Time:** 30–45 min
+**BGG Weight:** 1.8 · **Players:** 2–5 · **Play Time:** 30–45 min · [View on BGG](https://boardgamegeek.com/boardgame/209685)
 
-[Century: Spice Road](https://boardgamegeek.com/boardgame/209685) is often called the "Splendor killer," and while I don't think it quite replaces Splendor, it scratches a slightly different itch. You're building a hand of merchant cards that produce, upgrade, and trade spices — and the real joy is crafting the perfect sequence of plays before cashing in for victory points.
+Often compared to Splendor — and honestly, slightly better. [Century: Spice Road](https://boardgamegeek.com/boardgame/209685) has you building a hand of merchant cards that convert, upgrade, and generate spice cubes. Your engine is literally the cards in your hand: play them, rest to pick them all back up, repeat.
 
-Where Splendor gives you a growing discount engine, Century gives you a conversion engine. You're constantly optimising a pipeline of spice transformations, and every new merchant card reshapes what's possible. It also plays brilliantly at five players, which gives it an edge for larger groups.
-
-**Best for:** Groups of 3–5, players who enjoyed Splendor and want something with more card-play variety.
-
----
+The genius is in how quickly turns fly. You're making micro-decisions — acquire this card, play that conversion — that compound into satisfying chains by mid-game. It's the board game equivalent of a well-oiled assembly line, and at five players it still moves at a brisk pace. A phenomenal family-weight engine builder.
 
 ## 3. Gizmos
 
-**BGG Weight:** 2.02 · **Players:** 2–4 · **Play Time:** 40–50 min
+![Gizmos](images/gizmos-cover.jpg)
 
-[Gizmos](https://boardgamegeek.com/boardgame/246192) is the most *literal* engine builder on this list. You're constructing a science fair contraption piece by piece, and each gizmo you add triggers chain reactions with everything you've already built. Pick up a red marble? That triggers a card. Building that card triggers another bonus. That bonus gives you more marbles.
+**BGG Weight:** 2.0 · **Players:** 2–4 · **Play Time:** 40–50 min · [View on BGG](https://boardgamegeek.com/boardgame/246192)
 
-The marble dispenser component is a clever tactile touch, but the real star is how satisfying those combo turns become. By the end of the game, a single action can cascade into five or six bonus effects. It's Rube Goldberg: The Board Game, and it's delightful.
+If you want to feel like a mad scientist, [Gizmos](https://boardgamegeek.com/boardgame/246192) is your game. You pluck coloured energy marbles from a dispenser (yes, a physical marble dispenser — it's glorious) and use them to build gadgets that chain-react off each other.
 
-**Best for:** Players who love combo chains and want a pure, focused engine-building experience.
-
----
+The engine here is deliciously transparent: every gizmo you build triggers when you perform certain actions, so adding one card can suddenly cause a cascade of free actions. Your early turns are quiet and methodical; your late turns are explosive chain reactions. Gizmos nails the "small engine becomes unstoppable machine" arc better than almost anything at this weight.
 
 ## 4. Wingspan
 
 ![Wingspan](images/wingspan-cover.jpg)
 
-**BGG Weight:** 2.45 · **Players:** 1–5 · **Play Time:** 40–70 min
+**BGG Weight:** 2.5 · **Players:** 1–5 · **Play Time:** 40–70 min · [View on BGG](https://boardgamegeek.com/boardgame/266192)
 
-[Wingspan](https://boardgamegeek.com/boardgame/266192) hardly needs an introduction at this point. Elizabeth Hargrave's bird-themed tableau builder took the hobby by storm, and for good reason. You're populating three habitats with birds, each of which adds a new power to an ever-growing action row. The more birds you play in a habitat, the more powerful that habitat's action becomes.
+[Wingspan](https://boardgamegeek.com/boardgame/266192) proved that engine builders can be beautiful. You're an ornithologist attracting birds to your wildlife preserves, and each bird you play slots into one of three habitats, powering up the action associated with that row.
 
-What makes Wingspan special as an engine builder is how thematic it feels. You're not just optimising numbers — you're building an ecosystem where predators hunt, egg-layers proliferate, and flocking birds arrive in waves. It's also one of the most beautiful games ever made. The bird cards, the pastel egg miniatures, the dice tower birdhouse — every element is gorgeous.
-
-**Best for:** Anyone. Seriously. This is the game that converts non-gamers into hobbyists.
-
----
+The more birds in a row, the more powerful that action becomes. It's engine building through tableau construction, with gorgeous art and genuinely interesting bird facts on every card. Wingspan also respects your time — it's a medium-weight game that rarely outstays its welcome. The perfect choice for players ready to step beyond gateway games into something with real strategic teeth.
 
 ## 5. Res Arcana
 
-**BGG Weight:** 2.65 · **Players:** 2–4 · **Play Time:** 30–60 min
+![Res Arcana](images/res-arcana-cover.jpg)
 
-[Res Arcana](https://boardgamegeek.com/boardgame/262712) is a hidden gem (pun intended) from Thomas Lehmann, the designer of Race for the Galaxy. You play a mage with a personal deck of just eight artifacts, and you need to figure out how to weave those eight cards into an engine that generates enough essences to claim places of power and monuments.
+**BGG Weight:** 2.7 · **Players:** 2–4 · **Play Time:** 30–60 min · [View on BGG](https://boardgamegeek.com/boardgame/262712)
 
-The tiny deck size is the masterstroke. Every card matters. Every decision about which artifact to play and when is agonising in the best way. Games are fast — often under 30 minutes once you know what you're doing — but the depth-to-playtime ratio is absurd. This is a game for people who want a dense, thinky engine builder without a two-hour time commitment.
+From the designer of Race for the Galaxy comes this tight, compact engine builder where every mage starts with a personal deck of just eight artifacts. [Res Arcana](https://boardgamegeek.com/boardgame/262712) asks you to squeeze maximum value from minimal resources.
 
-**Best for:** Experienced gamers looking for depth in a compact package. Fans of tight card combos.
-
----
+You're generating essences — Life, Death, Elan, Calm, and Gold — to claim powerful monuments and places of power. Games are short and razor-sharp. There's no deck to dig through, no luck of the draw mid-game — just pure engine optimisation with the hand you're dealt. It's lean, mean, and endlessly replayable. A hidden gem for players who want depth without the time commitment.
 
 ## 6. Everdell
 
 ![Everdell](images/everdell-cover.jpg)
 
-**BGG Weight:** 2.80 · **Players:** 1–4 · **Play Time:** 40–80 min
+**BGG Weight:** 2.8 · **Players:** 1–4 · **Play Time:** 40–80 min · [View on BGG](https://boardgamegeek.com/boardgame/199792)
 
-[Everdell](https://boardgamegeek.com/boardgame/199792) combines worker placement with tableau building in a woodland setting that's as charming as it is strategic. You're constructing a city of critters and constructions, and the engine comes from how those cards interact — play a Farm, and you can recruit the Husband and Wife for free. Build a University and your Historian starts generating extra cards.
+[Everdell](https://boardgamegeek.com/boardgame/199792) wraps its engine building in one of the most charming packages in all of board gaming. You're building a city of woodland critters and constructions, placing workers to gather resources, and playing cards that combo off each other.
 
-The seasonal progression gives the game a wonderful arc. You start spring with almost nothing, and by winter your city is a bustling engine of interconnected buildings and creatures. The table presence is spectacular too — that enormous tree centerpiece is a statement piece.
-
-**Best for:** Players who want engine building with strong theme and beautiful production. Worker placement fans looking for something with more tableau interaction.
-
----
+What Everdell does brilliantly is the seasonal arc. You start with almost nothing — two workers, a handful of cards — and by your final season you're drowning in options. That progression from scarcity to abundance *is* the engine, and it feels wonderful every time. The fact that players advance through seasons independently keeps the game flowing and the table engaged. Beautiful, satisfying, and just the right amount of crunchy.
 
 ## 7. Race for the Galaxy
 
 ![Race for the Galaxy](images/race-for-the-galaxy-cover.jpg)
 
-**BGG Weight:** 2.98 · **Players:** 2–4 · **Play Time:** 30–60 min
+**BGG Weight:** 3.0 · **Players:** 2–4 · **Play Time:** 30–60 min · [View on BGG](https://boardgamegeek.com/boardgame/28143)
 
-[Race for the Galaxy](https://boardgamegeek.com/boardgame/28143) is a classic that has been quietly dominating game nights since 2007. The simultaneous role selection means games fly by, but the depth of the card interactions is staggering. You're building a galactic civilisation card by card, and the engine you construct determines whether you're producing and consuming goods, settling military worlds, or rushing developments.
+Inducted into the BGG Hall of Fame in 2025, [Race for the Galaxy](https://boardgamegeek.com/boardgame/28143) is the granddaddy of card-driven engine building. Each round, players simultaneously choose an action phase — Explore, Develop, Settle, Consume, or Produce — and everyone gets to execute the chosen phases, with bonuses for the chooser.
 
-Yes, the iconography is notoriously dense. Yes, your first game will involve a lot of squinting at symbols. But once the language clicks, Race becomes one of the most replayable games in existence. The sheer number of viable strategies and the speed at which games play (often under 30 minutes for experienced players) make this one you'll play hundreds of times.
-
-**Best for:** Players willing to climb a learning curve for incredible long-term replayability. Card game enthusiasts.
-
----
+The iconography is notoriously intimidating at first, but once it clicks, Race becomes one of the fastest and deepest engine builders ever made. Experienced players can rip through a game in 15–20 minutes, each one feeling completely different. You're building a space civilisation from cards that double as currency — it's elegant, it's crunchy, and it has a near-infinite skill ceiling. A masterpiece.
 
 ## 8. Terraforming Mars
 
 ![Terraforming Mars](images/terraforming-mars-cover.jpg)
 
-**BGG Weight:** 3.25 · **Players:** 1–5 · **Play Time:** 120 min
+**BGG Weight:** 3.2 · **Players:** 1–5 · **Play Time:** 120 min · [View on BGG](https://boardgamegeek.com/boardgame/167791)
 
-[Terraforming Mars](https://boardgamegeek.com/boardgame/167791) is *the* engine builder for many people. You're a corporation working to make Mars habitable, and the engine comes from the hundreds of project cards that interact in endlessly creative ways. Build microbe farms that feed into atmospheric processors. Launch asteroids to raise the temperature. Fund ecological preserves for end-game scoring.
+The modern classic. [Terraforming Mars](https://boardgamegeek.com/boardgame/167791) gives you a corporation and over 200 unique project cards, then says "make Mars habitable." Your engine produces six different resources — money, steel, titanium, plants, energy, and heat — and every card you play adjusts this production in fascinating ways.
 
-The card variety is what keeps Terraforming Mars endlessly fresh. With over 200 unique project cards, no two games ever feel the same. The engine you build one game — focused on plant production and greenery — might look completely different from your next one, where you're all-in on space events and titanium production. It's a masterclass in emergent engine building.
-
-**Best for:** Anyone ready for a longer, more involved engine builder. Sci-fi fans. Players who love discovering card combos organically.
-
----
+The magic is in how the theme and mechanics reinforce each other. Building greenery increases oxygen. Oceans raise temperature. Every action feels *logical*, which makes planning intuitive even in a game with serious weight. Yes, it's long. Yes, the player boards are famously terrible. But when your production engine hits its stride in the late game, pumping out resources and terraforming parameters in cascading combos, there's nothing else quite like it.
 
 ## 9. Ark Nova
 
 ![Ark Nova](images/ark-nova-cover.jpg)
 
-**BGG Weight:** 3.72 · **Players:** 1–4 · **Play Time:** 90–150 min
+**BGG Weight:** 3.7 · **Players:** 1–4 · **Play Time:** 90–150 min · [View on BGG](https://boardgamegeek.com/boardgame/342942)
 
-[Ark Nova](https://boardgamegeek.com/boardgame/342942) is a modern masterpiece that blends zoo management with serious engine building. Your five action cards improve as you use them, sliding along a power track that makes timing crucial. Meanwhile, you're building enclosures, sponsoring conservation projects, and populating your zoo with animals that chain together through geographic and taxonomic synergies.
+[Ark Nova](https://boardgamegeek.com/boardgame/342942) takes the Terraforming Mars formula and cranks up the complexity. You're building a modern zoo — playing animal cards, constructing enclosures, supporting conservation programs — while managing a sliding action-strength system that makes every turn a puzzle.
 
-The dual-track scoring system — where you need your appeal and conservation markers to cross — creates fascinating tension between crowd-pleasing exhibits and genuine conservation work. It's heavy, it's long, and it's absolutely worth every minute. This is the game that dethroned Terraforming Mars for many hobbyists.
-
-**Best for:** Experienced gamers looking for a meaty, thematic engine builder. Anyone who loved Terraforming Mars and wants something with more modern design.
-
----
+The combos in Ark Nova are extraordinary. A single action can cascade through partner universities, conservation bonuses, and sponsor cards, triggering chain after chain. It's long and it's heavy, but turns are surprisingly quick, and the feeling of watching your zoo come together — both mechanically and thematically — is immensely rewarding. If you love Terraforming Mars and wish it went deeper, this is your next obsession.
 
 ## 10. Brass: Birmingham
 
 ![Brass: Birmingham](images/brass-birmingham-cover.jpg)
 
-**BGG Weight:** 3.87 · **Players:** 2–4 · **Play Time:** 60–120 min
+**BGG Weight:** 3.9 · **Players:** 2–4 · **Play Time:** 60–120 min · [View on BGG](https://boardgamegeek.com/boardgame/224517)
 
-[Brass: Birmingham](https://boardgamegeek.com/boardgame/224517) sits atop BoardGameGeek's overall rankings for good reason. Set during the Industrial Revolution, you're building an interconnected network of industries — coal mines, iron works, breweries, potteries, and manufacturers — each feeding into the others in a beautifully interlocking economic engine.
+Sitting at the top of the BGG rankings for good reason, [Brass: Birmingham](https://boardgamegeek.com/boardgame/224517) is engine building at its most interconnected. Set during the Industrial Revolution, you're building industries — cotton mills, coal mines, iron works, breweries — and connecting them via canals and railways.
 
-What makes Brass exceptional as an engine builder is how *shared* the engine is. Your coal mine doesn't just fuel your own factories — opponents can use it too, which flips it for points. The canal and rail eras create a two-act structure where you build your engine and then must strategically rebuild it. It's demanding, it's brilliant, and it rewards repeated play like few games can.
-
-**Best for:** Heavy strategy enthusiasts. Players who want their engine building embedded in a rich economic simulation. The pinnacle of the genre.
+Your engine here isn't just your tableau — it's the entire shared economy. Coal and iron flow through networks, beer fuels your sales, and the mid-game reset (where all Canal-era buildings are wiped and the Railway era begins) forces you to build twice, adapt constantly, and think several turns ahead. It's brutal, beautiful, and endlessly deep. The production quality is outstanding, and the strategic ceiling is practically unreachable. The crown jewel of engine building.
 
 ---
 
-## Honourable Mentions
+## Honourable Mention: Gaia Project
 
-A few games that nearly made the list: **[Gaia Project](https://boardgamegeek.com/boardgame/220308)** (BGG Weight: 4.40) for those who want something even heavier than Brass, **[It's a Wonderful World](https://boardgamegeek.com/boardgame/271324)** for a brilliant drafting-meets-engine-building experience, and **[Dominion](https://boardgamegeek.com/boardgame/36218)** for pioneering the deck-building-as-engine concept.
+For those who've conquered everything above, [Gaia Project](https://boardgamegeek.com/boardgame/220308) (BGG Weight: 4.4) takes the beloved Terra Mystica system into space with tech tracks, terraforming, and faction asymmetry that will keep you busy for years. It's not for the faint-hearted, but for heavy-game enthusiasts, it's extraordinary.
 
-Engine building is a genre with something for everyone. Whether you're collecting gems in Splendor or orchestrating an industrial revolution in Brass: Birmingham, the core thrill is the same — watching something you built from nothing become an unstoppable machine. Now go build something beautiful.
+---
+
+*What's your favourite engine builder? Did we miss your top pick? Let us know — and happy gaming.*
