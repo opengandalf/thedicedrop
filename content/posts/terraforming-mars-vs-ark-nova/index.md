@@ -52,7 +52,13 @@ This is where the decision really starts.
 
 In **Terraforming Mars**, you're collectively turning a dead planet green. There's a shared board — Mars itself — where you place ocean tiles, greenery, and cities. The map creates genuine spatial tension. Placing a city next to someone else's greenery matters. Claiming a Milestone before your opponent can is a race. The global parameters (temperature, oxygen, oceans) tick upward from everyone's efforts, but you're jockeying for credit.
 
+![Terraforming Mars gameplay — the board fills up with tiles as players collectively terraform the planet](images/terraforming-mars-gameplay-1.jpg)
+*A Terraforming Mars game nearing completion — oceans placed, greenery spreading, cities contested. Image credit: BoardGameGeek user*
+
 In **Ark Nova**, there is no shared map in the same way. You're building your own zoo on your own board. You place enclosures, kiosks, and pavilions in a spatial puzzle that's entirely yours. The interaction comes from the card display (sniping animals your opponent needs), the association board (grabbing conservation projects first), and the break trigger (ending the game before others are ready).
+
+![Ark Nova gameplay — a zoo map filling up with enclosures and buildings](images/ark-nova-gameplay-1.jpg)
+*An Ark Nova game in progress — enclosures placed, action cards sliding along the track. Image credit: BoardGameGeek user*
 
 The result: Terraforming Mars feels more *competitive*, with direct board presence and take-that cards. Ark Nova feels more like a *competitive solitaire* — your zoo is yours, but the race is real.
 
@@ -65,6 +71,9 @@ Both games live and die by their card decks. But they handle them differently.
 **Ark Nova** uses a different approach entirely: five action cards that slide along a track. The power of each action depends on its position — the further right, the stronger. After you use a card, it resets to position 1. This creates a gorgeous puzzle within the puzzle. Do you take a weak Animals action now, or wait a turn so it powers up? Do you burn your strong Build to grab that perfect enclosure spot?
 
 The action card mechanism is Ark Nova's signature innovation, and it's what makes the game feel distinct from every other tableau builder. Terraforming Mars has nothing like it — your turns are simply "do 1-2 actions from a list." The flexibility is greater, but the mechanical cleverness is lower.
+
+![Terraforming Mars — player cards and resources spread across the table](images/terraforming-mars-gameplay-2.jpg)
+*The full Terraforming Mars table spread — cards, cubes, and a planet slowly coming to life. Image credit: BoardGameGeek user*
 
 ## Complexity and learning curve
 
@@ -129,6 +138,9 @@ Ark Nova has:
 - **Zoo Map Packs 1 & 2** (alternate zoo layouts)
 
 Terraforming Mars with Prelude is widely considered the definitive version. Without it, the early game drags. Ark Nova's base game stands alone better — Marine Worlds is excellent but not essential.
+
+![Ark Nova — neatly organised components and player area](images/ark-nova-gameplay-2.jpg)
+*Ark Nova's components laid out — clean iconography and a well-organised player area. Image credit: BoardGameGeek user*
 
 ## Production quality
 
