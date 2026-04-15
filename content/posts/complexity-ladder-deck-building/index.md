@@ -1,217 +1,168 @@
 ---
-title: "The Deck Building Complexity Ladder"
-date: 2026-04-03T09:11:58+0000
+title: "Complexity Ladder: Deck-Building Games — From Star Realms to Mage Knight"
+date: 2026-04-15T21:01:00+0000
 draft: false
 categories:
-  - "Guides"
+  - "Board Games"
 tags:
   - "Complexity Ladder"
-  - "Deck Building"
-  - "Guide"
+  - "Deck-Building"
   - "Board Games"
-description: "The Deck Building Complexity Ladder - analysis by The Dice Drop"
+  - "Buying Guide"
+description: "A seven-rung complexity ladder for deck-building games, from the 20-minute punch of Star Realms to the sprawling brain-burn of Mage Knight. Every stat verified against BGG data."
 ShowToc: true
 TocOpen: false
 cover:
-  image: "images/clank-a-deck-building-adventure-cover.jpg"
-  alt: "Clank! A Deck-Building Adventure - box art"
+  image: "images/clank-cover.jpg"
+  alt: "Clank! A Deck-Building Adventure — box art"
   caption: "Box art via BoardGameGeek. Clank! A Deck-Building Adventure."
   relative: true
 images:
   - "images/og-card.jpg"
 ---
 
-If you want to get into deck-building properly, not just dabble for a night and move on, this is the ladder I'd use. A real progression. Each step teaches a different part of the genre: first the basic loop, then engine-building, then boards and movement, then co-op pressure, then a different way of thinking about cards entirely, and finally the sprawling brain-burner people recommend a bit too casually online.
+Deck-building is one of those mechanics that scales beautifully. At its simplest, you're buying cards and playing cards. At its most extreme, you're orchestrating a hand of twelve multi-use cards against a branching decision tree that would make a chess engine sweat. The jump from one end to the other is enormous, and knowing where you are on that spectrum — and where you want to go next — is half the battle.
 
-That escalates quickly. In a good way.
+This ladder covers seven deck-builders, each a genuine step up in weight and decision density from the last. Not seven random games with the same mechanic. Seven deliberate rungs. If you're comfortable at one level, the next one up should stretch you without breaking you.
 
-I'm starting with the cleanest on-ramp and ending with the game that can leave you staring at a hand of cards for ten minutes trying to turn one crystal and a sideways unit into an entire military campaign.
+All stats pulled directly from BGG. No guesswork.
 
-## 🟢 Gateway: [Star Realms](https://boardgamegeek.com/boardgame/147020)
-**Weight:** 1.92/5
-**Players:** 2
-**Play time:** 20 min
-**BGG:** 7.55/10, rank #174
+---
 
-![Star Realms](images/star-realms-cover.jpg)
+## Rung 1: [Star Realms](https://boardgamegeek.com/boardgame/147020) — The Gateway Drug
 
-This is the best first deck-builder. Full stop.
+**Weight:** 1.92/5 · **Rating:** 7.55/10 · **Players:** 2 · **Time:** ~20 min · **BGG Rank:** #174
 
-[Star Realms](https://boardgamegeek.com/boardgame/147020) teaches the core loop in under 10 minutes. You start with a rubbish little deck. You buy better cards from a shared market. You draw, play, attack, heal, and slowly turn your pile of sad starter cards into a machine that spits out damage. That's the genre. No extra fluff needed.
+![Star Realms box art](images/star-realms-cover.jpg "Box art via BoardGameGeek. Star Realms by Wise Wizard Games.")
 
-What it introduces:
-- Buy, draw, play cycles
-- Deck thinning through trashing weak cards
-- Faction synergies and combo chaining
-- Tempo swings from market timing and hand draws
+If you've never built a deck before, start here. Star Realms strips the mechanic to its bones: you buy ships from a shared trade row, you play them to generate trade or combat, and you smash your opponent's authority to zero. Done. Twenty minutes, shuffle up, go again.
 
-Why it works so well is that everything matters immediately. Buy a ship. Play a ship. Punch your opponent in the face. There's no victory point conversion puzzle, no board to interpret, no "actually this symbol means reserve influence unless it's Tuesday" nonsense. You feel the deck-building doing something right away.
+What makes Star Realms such an effective teacher is that faction synergies are immediately visible. Play two Machine Cult cards, get a bonus. Play three Blob cards, get a bigger bonus. You learn the core lesson of every deck-builder — that the cards you *don't* buy matter as much as the ones you do — without needing a rulebook thicker than a napkin.
 
-And yes, there's luck. Sometimes your perfect blob combo sits in the wrong half of the deck and you mutter darkly at the table. That's part of the package. The games are 20 minutes. Shuffle up and go again.
+The weight of 1.92 is generous. This is closer to a card game than a board game, and that's the point. It costs less than a takeaway, fits in a pocket, and teaches you everything you need to know about building a synergistic engine under pressure.
 
-**Skip to here if...** you mostly play card games, duellers, or want something cheap and sharp that actually gets played on weeknights.
+**When you're ready to move on:** You'll know because you start wanting the game to do *more*. More space. More options. More ways to express your strategy beyond "buy the biggest ship in the row."
 
-**Common trap to avoid:** jumping straight from this to some giant box because you think "I get deck-building now". You get the verbs. You do not yet get the grammar.
+---
 
-## When you're ready to level up
+## Rung 2: [Clank!: A Deck-Building Adventure](https://boardgamegeek.com/boardgame/201808) — The Board Changes Everything
 
-Once the basic loop makes sense, the next step should teach engine-building without burying you in theme chrome. That means the genre classic.
+**Weight:** 2.23/5 · **Rating:** 7.76/10 · **Players:** 2–4 · **Time:** 30–60 min · **BGG Rank:** #98
 
-## 🟢 Gateway+: [Dominion](https://boardgamegeek.com/boardgame/36218)
-**Weight:** 2.34/5
-**Players:** 2-4
-**Play time:** 30 min
-**BGG:** 7.60/10, rank #145
+![Clank! box art](images/clank-cover.jpg "Box art via BoardGameGeek. Clank! by Dire Wolf / Renegade Game Studios.")
 
-[Dominion](https://boardgamegeek.com/boardgame/36218) is still one of the smartest designs in the hobby. People joke that it's dry. It is dry. It's also brilliant.
+Clank! takes the Star Realms formula and bolts a board onto it. Suddenly you're not just building a deck — you're navigating a dungeon, pushing your luck against a dragon that gets angrier every time someone makes noise, and racing other players to grab artifacts and escape alive.
 
-Where [Star Realms](https://boardgamegeek.com/boardgame/147020) teaches deck-building as a duel, [Dominion](https://boardgamegeek.com/boardgame/36218) teaches it as an engine puzzle. Now you're not just buying better cards. You're building a deck that produces extra actions, extra buys, extra money, and eventually victory points without collapsing into sludge.
+The deck-building itself is only marginally heavier than Star Realms. You're still buying from a shared row, still looking for synergies. But the spatial element adds an entire decision layer: do you go deeper for better loot and risk dying, or do you grab something modest and sprint for the exit? Your deck has to serve two masters now — generating resources *and* moving your pawn — and that tension is what makes Clank! click.
 
-That's the new lesson here:
-- Variable market setup
-- Action economy
-- Deck efficiency versus bloat
-- Winning through points, not direct damage
+At 2.23 weight, it's a perfect family-weight strategy game that happens to have deck-building at its core. The dragon bag-pull mechanic adds drama without adding complexity. You'll laugh. You'll curse. You'll absolutely buy the expansions.
 
-This is where players learn that "more cards" is not automatically "better deck". Every [Dominion](https://boardgamegeek.com/boardgame/36218) player has had the same painful revelation. You buy all the cool stuff, draw a hand of nonsense, and lose to someone who bought a lean little village-smithy-money engine and started greening earlier than you.
+**When you're ready to move on:** You'll find yourself wishing the card market had more meaningful choices, or wanting the deck-building to be the main event rather than one tool in a dungeon-crawling toolbox.
 
-Beautiful. Cruel. Educational.
+---
 
-The replayability is absurd because the kingdom card mix changes everything, and the expansion rabbit hole is legendary for a reason. BGG has spent years arguing over best sets, weakest cards, and whether attack cards are healthy design or a personal insult. That's how you know the game has legs.
+## Rung 3: [Dominion](https://boardgamegeek.com/boardgame/36218) — The One That Started It All
 
-**Skip to here if...** you've played a few hobby games already and don't need the hand-holding of a pure intro dueller.
+**Weight:** 2.34/5 · **Rating:** 7.60/10 · **Players:** 2–4 · **Time:** ~30 min · **BGG Rank:** #145
 
-**Common trap to avoid:** assuming [Dominion](https://boardgamegeek.com/boardgame/36218) is "too old" to matter. Nonsense. Plenty of newer deck-builders are still borrowing its homework.
+![Dominion box art](images/dominion-cover.jpg "Box art via BoardGameGeek. Dominion by Rio Grande Games.")
 
-## When you're ready to level up
+Dominion invented the genre. There is no complexity ladder for deck-building games without Dominion on it, and the fact that it still holds up after almost two decades says everything.
 
-Once you understand engine-building in a mostly pure form, it helps to see what happens when that card play starts interacting with a board. Not a giant one. Just enough to make your deck care about position, timing, and whether greed is about to get you roasted by a dragon.
+Where Star Realms gives you a randomised trade row, Dominion gives you a curated kingdom of 10 card stacks that everyone can see from the start. No luck of the draw in the market. Just you, the available cards, and the question of how fast you can build an engine that converts actions into buys into victory points before the Provinces run out.
 
-## 🟡 Medium: [Clank! A Deck-Building Adventure](https://boardgamegeek.com/boardgame/201808)
-**Weight:** 2.23/5
-**Players:** 2-4
-**Play time:** 30-60 min
-**BGG:** 7.76/10, rank #98
+The brilliance is in deck thinning. Dominion is where most players first learn that a lean deck beats a fat one. Buying a Chapel to trash your starting coppers is one of those "lightbulb" moments that reshapes how you think about every deck-builder from here on. The game is pure engine optimisation. No board, no combat, no theme to speak of. Just the mechanism, pristine and elegant.
 
+At 2.34 weight, it's only a hair above Clank!, but the *feel* is very different. Dominion demands you plan ahead. Turns are snappy — Action, Buy, Clean-up, done — but the strategy runs deep. With hundreds of kingdom card combinations across its many expansions, no two games play the same.
 
+**When you're ready to move on:** You'll start craving a game where the deck-building plugs into something bigger. A boss fight. A shared threat. A puzzle beyond "get to 8 coins, buy a Province."
 
-I love what [Clank! A Deck-Building Adventure](https://boardgamegeek.com/boardgame/201808) does for people who think deck-builders are just spreadsheet card games. Suddenly, your cards move you through a dungeon. They make noise. They tempt you deeper. They threaten to get you killed.
+---
 
-That's the leap:
-- Spatial decisions on a board
-- Push-your-luck tension
-- A race structure
-- Semi-co-operative table drama, because everyone is kind of in it together until they absolutely are not
+## Rung 4: [Aeon's End](https://boardgamegeek.com/boardgame/191189) — Cooperation Under Siege
 
-This is the point on the ladder where deck-building starts feeling like an adventure rather than a card mechanism. You're not just tuning an engine. You're deciding whether to grab a safer artifact and leave, or push one room deeper because maybe, just maybe, you can snag something glorious and still escape before the dragon turns your plan into ash.
+**Weight:** 2.80/5 · **Rating:** 7.86/10 · **Players:** 1–4 · **Time:** ~60 min · **BGG Rank:** #107
 
-Of course, dragon draws can be swingy. Sometimes the bag hates you. Sometimes the player who made every bad decision survives while you, a responsible adult, get clipped by chaos. That's [Clank! A Deck-Building Adventure](https://boardgamegeek.com/boardgame/201808). It's messy in a very human way.
+![Aeon's End box art](images/aeons-end-cover.jpg "Box art via BoardGameGeek. Aeon's End by Indie Boards & Cards.")
 
-**Skip to here if...** your group likes theme, table talk, and games that create stories instead of just efficient card lines.
+Aeon's End is where the ladder starts to lean. This is a cooperative deck-builder where you and your team are breach mages defending the last remnants of humanity against a nightmarish boss called a Nemesis. The boss has its own deck, its own escalation, and it will absolutely destroy you if your team doesn't coordinate.
 
-**Common trap to avoid:** treating this like a pure optimisation exercise. The whole point is that greed has teeth.
+Two innovations set it apart. First: you never shuffle your discard pile. You choose the order cards go into your discard, which means you're planning not just this turn but two or three turns ahead. That alone would be enough, but second: turn order is randomised each round via a card draw. You might get two turns in a row. The boss might get two turns in a row. Planning around this chaos is the game.
 
-## When you're ready to level up
+At 2.80, there's a genuine step up from Dominion. You're managing breach charges, gem purchases, spell pre-loading, health pools for yourself and the city, and a boss whose abilities escalate in genuinely nasty ways. The first time a Nemesis card forces you to discard your entire hand after you just carefully stacked it, you'll feel the weight.
 
-After that, the next rung asks for more commitment: more setup, more card text, and more pressure from the game state itself. It also shifts the focus from racing each other to dealing with a shared problem, even if the table politics stay a bit strange.
+Best at two players according to BGG poll data (487 Best votes), and strongly recommended solo (144 Best, 331 Recommended). If you want to take deck-building into cooperative territory, this is the gold standard.
 
-## 🟡 Medium+: [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437)
-**Weight:** 2.44/5
-**Players:** 1-5
-**Play time:** 30-60 min
-**BGG:** 7.52/10, rank #280
+**When you're ready to move on:** You'll want the deck-building to sit alongside other mechanisms — worker placement, exploration, resource management — rather than being the entire game.
 
-[Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437) is where deck-building gets properly modular and co-operative, sort of. You're working together to stop a mastermind and their scheme, but there are still personal scores involved, so the table dynamic gets deliciously weird.
+---
 
-What it adds over [Clank! A Deck-Building Adventure](https://boardgamegeek.com/boardgame/201808):
-- Full co-op pressure with shared loss conditions
-- Scenario modularity through masterminds, schemes, villains, and hero mixes
-- Team synergy and tactical coordination
-- More complex market and board-state reading
+## Rung 5: [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484) — The Hybrid Machine
 
-The appeal is obvious. You draft Spider-Man, Wolverine, Storm, and whoever else your inner twelve-year-old wants, then try to build ridiculous combo turns while the villain deck steadily makes life worse. When it sings, it really sings.
+**Weight:** 2.93/5 · **Rating:** 8.08/10 · **Players:** 1–4 · **Time:** 30–120 min · **BGG Rank:** #30
 
-It can also be lopsided. Some setups are smoother than others. Some schemes feel rude. The BGG and Reddit crowd have been debating "best randomiser method" for years because players love the variety but do not love accidentally creating a scenario that feels like a bin fire.
+![Lost Ruins of Arnak box art](images/lost-ruins-arnak-cover.jpg "Box art via BoardGameGeek. Lost Ruins of Arnak by Czech Games Edition.")
 
-Still, this is a great next step if you want your deck-builder to have more event texture and more table conversation.
+Arnak is the moment where "deck-building game" stops being the full description. This is a deck-builder, a worker placement game, and a resource management puzzle stacked on top of each other, and somehow none of those layers feel vestigial.
 
-![Legendary: A Marvel Deck Building Game](images/legendary-a-marvel-deck-building-game-cover.jpg)
+Cards serve double duty: play them to place a worker at an exploration site, or use them for their resource effect during your reveal phase. The research track rewards you for pushing past guardians. Artifacts you discover become powerful additions to your deck. The whole thing fits together like a puzzle box — tight, interlocking, satisfying.
 
+At 2.93 weight, the complexity comes from the number of things competing for your attention rather than any single system being hard. You're asking yourself five questions per turn: Which site should I explore? Can I afford the guardian? Should I save this card for its worker placement or its resource value? How far can I push the research track? And crucially: is it worth buying this card when I only have two rounds left to actually draw it?
 
-## When you're ready to level up
+That last question matters. Arnak runs only five rounds. Late-game card purchases rarely pay off, which forces a discipline that many heavier deck-builders don't require. It teaches you to stop building and start executing.
 
-At this point, most people jump to something too big, too soon. My pick is different. Not because it's easier, but because it teaches a genuinely new idea before the final leap.
+**When you're ready to move on:** You want a game where the deck-building isn't just *one* mechanism — you want it woven into every single decision, layered with bluffing, combat, and politics.
 
-## 🔴 Heavy: [Dune: Imperium](https://boardgamegeek.com/boardgame/316554)
-**Weight:** 3.01/5  
-**Players:** 1-4  
-**Play time:** 60-120 min  
-**BGG:** 8.4/10, rank #6
+---
 
-![Dune: Imperium](images/dune-imperium-cover.jpg)
+## Rung 6: [Dune: Imperium](https://boardgamegeek.com/boardgame/316554) — Politics, Spice, and Hidden Information
 
-[Dune: Imperium](https://boardgamegeek.com/boardgame/316554) is what happens when someone decides deck-building should share a table with worker placement and then dares you to manage both at once. You draft cards that determine where your agents can go, place workers on Arrakis to gain resources and political influence, and then fight over control of contested spaces. The deck doesn't just fuel an engine. It dictates your strategy turn by turn.
+**Weight:** 3.08/5 · **Rating:** 8.41/10 · **Players:** 1–4 · **Time:** 60–120 min · **BGG Rank:** #6
 
-That's a genuine weight jump from everything below:
-- Worker placement integrated with card play
-- Multi-system resource management (spice, solari, water, influence)
-- Conflict resolution through committed troops
-- Long-term faction alignment and intrigue card timing
-- Variable player powers through leader abilities
+![Dune: Imperium box art](images/dune-imperium-cover.jpg "Box art via BoardGameGeek. Dune: Imperium by Dire Wolf.")
 
-This is the rung where deck-building stops being the whole game and becomes one system inside a larger strategic puzzle. Your deck controls your options, but the board state, the conflict track, and the other players' positioning all matter just as much. Buying the perfect card means nothing if you can't get your agents to the right spaces at the right time.
+There's a reason this sits at #6 on all of BoardGameGeek. Dune: Imperium uses deck-building to add a layer of hidden information to worker placement that most games in that genre can't touch. The cards in your hand determine where your agents can go, which means your opponents can never be fully sure what you're capable of on any given turn.
 
-The Dune theme isn't just wallpaper, either. The faction tracks, the spice economy, the intrigue — it all maps onto the source material in a way that makes thematic sense without being slavish about it. Paul Dennen's design earned its place in the BGG top 10 for a reason.
+The weight jump from Arnak is modest — 2.93 to 3.08 — but the *feel* is meaningfully heavier because combat matters, faction allegiances matter, and the Intrigue cards add a layer of backstabbing and bluffing that pure euros don't have. You might reveal a card that swings a combat at the last second, or spend an entire round sandbagging to look weak before committing everything to the fight that awards three victory points.
 
-**Skip to here if...** you want your deck-builder to feel like a proper strategy game, not just a card optimisation puzzle.
+The deck-building here serves the strategy rather than being the strategy. You're not optimising a draw engine in a vacuum. Every card you buy must justify itself against a very specific question: does this card let my agents go where I need them, when I need them, while also contributing to my reveal-phase combat power? Cards that do both are gold. Cards that do neither are dead weight.
 
-**Common trap to avoid:** ignoring the conflict. New players often focus on engine-building and skip fights. In [Dune: Imperium](https://boardgamegeek.com/boardgame/316554), the battles are where the victory points live. You have to get your hands dirty.
+At 3.08 weight with a 60–120 minute play time, it's a serious game that respects your evening without devouring your entire night. Same designer as Clank! — Paul Dennen — which tells you something about how well the deck-building integrates with the board.
 
-## When you're ready to level up
+**When you're ready to move on:** You want to go off the deep end. You want a game where every card in your hand has three possible uses, the map unfolds as you explore, and a single play session might take an entire afternoon. You want Mage Knight.
 
-This is the final rung: the mountain. The one people recommend with a glint in their eye, as if teaching it is a public service. It is not. It is an event.
+---
 
-## ⚫ Expert: Mage Knight Ultimate Edition
-**Weight:** not listed here for Ultimate Edition
-**Play time:** epic, plan your evening
-**Price:** roughly $100-130
+## Rung 7: [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848) — The Everest
 
+**Weight:** 4.38/5 · **Rating:** 8.08/10 · **Players:** 1–4 · **Time:** 60–240 min · **BGG Rank:** #39
 
+![Mage Knight box art](images/mage-knight-cover.jpg "Box art via BoardGameGeek. Mage Knight by WizKids.")
 
-[Mage Knight](https://boardgamegeek.com/boardgame/96848) is where deck-building stops being the main dish and becomes one part of a giant fantasy efficiency puzzle. Slow-motion deck-building. Exploration. Combat maths. Unit recruitment. Mana dice. Scenario goals. Multiple solutions to the same problem. It's magnificent.
+Mage Knight is the mountain at the end of the trail. Designed by Vlaada Chvátil — the same mind behind Codenames, Galaxy Trucker, and Through the Ages — it takes deck-building and folds it into an RPG-scale adventure game where every single card in your hand can be played in multiple ways, and the puzzle of how to combine them against the challenge in front of you is genuinely brain-burning.
 
-And exhausting.
+At 4.38 weight, this is a different category entirely. Every card can be played for a basic effect, boosted with mana for a stronger effect, or sideways for movement, attack, block, or influence depending on what you need. Combat is a multi-step calculation: ranged attack, then block, then melee, with each step drawing from your hand, your units, and your mana pool. Sieging a fortified city might take ten minutes of careful hand optimisation. And that's one turn.
 
-What it adds over [Dune: Imperium](https://boardgamegeek.com/boardgame/316554):
-- Limited deck cycles, so every card use matters more
-- Multi-use cards and intricate hand management
-- Exploration on map tiles
-- Combat and diplomacy paths
-- Dense turn puzzles with long-range planning
+The game is best solo. BGG poll data makes that unambiguous: 851 Best votes at 1 player, versus 627 at 2 and a steep drop-off after. With more players, downtime between turns can stretch painfully. Solo, it's one of the greatest puzzle experiences in the hobby — a fantasy adventure where the real boss fight is your own hand management.
 
-This is not a natural next purchase for everyone who likes [Star Realms](https://boardgamegeek.com/boardgame/147020). That would be absurd. This is for the player who actively wants a game where their first turn can take 20 minutes and still feel worthwhile. The reward is immense. Character growth feels earned. Every conquered site feels like you solved something, not just defeated it.
+Setup is significant. Teardown is significant. A full conquest scenario can take 3–4 hours solo. But if you've climbed this entire ladder and you want the ultimate expression of "what can I do with these cards?" — there is nothing else like it.
 
-But the warnings are real. Analysis paralysis is brutal. The rules load is heavy. Every "it's not that bad once you know it" comment online is technically true and deeply unhelpful.
+**When you're ready to move on:** You don't. You're at the top. Enjoy the view.
 
-**Common trap to avoid:** buying this as your second or third deck-builder because the internet told you it's a masterpiece. It is a masterpiece. That doesn't mean it's your next game.
+---
 
-## The ladder at a glance
+## The Full Ladder at a Glance
 
-- **Start here:** [Star Realms](https://boardgamegeek.com/boardgame/147020)
-- **Want the genre foundation:** [Dominion](https://boardgamegeek.com/boardgame/36218)
-- **Want theme and movement:** [Clank! A Deck-Building Adventure](https://boardgamegeek.com/boardgame/201808)
-- **Want co-op modular chaos:** [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437)
-- **Want the strategy leap:** [Dune: Imperium](https://boardgamegeek.com/boardgame/316554)
-- **Want the deep end:** [Mage Knight](https://boardgamegeek.com/boardgame/96848)
+| Rung | Game | Weight | Rating | Time | The Step Up |
+|------|------|--------|--------|------|-------------|
+| 1 | [Star Realms](https://boardgamegeek.com/boardgame/147020) | 1.92 | 7.55 | 20 min | Pure deck-building, no distractions |
+| 2 | [Clank!](https://boardgamegeek.com/boardgame/201808) | 2.23 | 7.76 | 30–60 min | Adds a board and push-your-luck |
+| 3 | [Dominion](https://boardgamegeek.com/boardgame/36218) | 2.34 | 7.60 | 30 min | Pure engine optimisation, deck thinning |
+| 4 | [Aeon's End](https://boardgamegeek.com/boardgame/191189) | 2.80 | 7.86 | 60 min | Co-op, no-shuffle planning, boss fights |
+| 5 | [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484) | 2.93 | 8.08 | 30–120 min | Hybrid: deck-building + worker placement |
+| 6 | [Dune: Imperium](https://boardgamegeek.com/boardgame/316554) | 3.08 | 8.41 | 60–120 min | Hidden info, combat, political factions |
+| 7 | [Mage Knight](https://boardgamegeek.com/boardgame/96848) | 4.38 | 8.08 | 60–240 min | Multi-use cards, RPG-scale puzzle |
 
-If you forced me to name the **best** game at each level, I'd go:
-- **Gateway:** [Star Realms](https://boardgamegeek.com/boardgame/147020)
-- **Gateway+:** [Dominion](https://boardgamegeek.com/boardgame/36218)
-- **Medium:** [Clank! A Deck-Building Adventure](https://boardgamegeek.com/boardgame/201808)
-- **Medium+:** [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437)
-- **Heavy:** [Dune: Imperium](https://boardgamegeek.com/boardgame/316554)
-- **Expert:** [Mage Knight](https://boardgamegeek.com/boardgame/96848)
+Every game on this ladder is excellent at what it does. The question isn't which is best — it's which one matches where you are right now, and which one you'll be ready for next.
 
-That's a very satisfying journey. You start with clean duelling, learn proper engine-building, add a board, add co-op pressure, integrate deck-building with full-blown strategy, and then f[inish](/posts/games-like-inis/) with one of the hobby's great brain-burners.
-
-Where are you on the ladder?
+Happy climbing. 🎲
