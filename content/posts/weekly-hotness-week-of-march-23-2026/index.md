@@ -9,12 +9,12 @@ tags:
   - "Weekly Roundup"
   - "Board Games"
   - "Analysis"
-description: "Weekly Hotness: Week of March 23, 2026 — analysis by The Dice Drop"
+description: "Weekly Hotness: Week of March 23, 2026  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/arkham-horror-the-card-game-cover.jpg"
-  alt: "Arkham Horror: The Card Game — box art"
+  alt: "Arkham Horror: The Card Game  -  box art"
   caption: "Image via cdna.artstation.com"
   relative: true
 images:

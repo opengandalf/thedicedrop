@@ -9,12 +9,12 @@ tags:
   - "Worker Placement"
   - "Guide"
   - "Board Games"
-description: "The Worker Placement Complexity Ladder — analysis by The Dice Drop"
+description: "The Worker Placement Complexity Ladder  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/stone-age-cover.jpg"
-  alt: "Stone Age — box art"
+  alt: "Stone Age  -  box art"
   caption: "Image via massdrop-s3.imgix.net"
   relative: true
 images:

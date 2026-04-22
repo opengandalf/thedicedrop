@@ -9,12 +9,12 @@ tags:
   - "Gloomhaven"
   - "Board Games"
   - "Review"
-description: "Gloomhaven: A Deep Dive Review — analysis by The Dice Drop"
+description: "Gloomhaven: A Deep Dive Review  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/gloomhaven-cover.webp"
-  alt: "Gloomhaven — box art"
+  alt: "Gloomhaven  -  box art"
   caption: "Image via boardgamewikia.com"
   relative: true
 images:

@@ -9,12 +9,12 @@ tags:
   - "Daniele Tascini"
   - "Board Games"
   - "Analysis"
-description: "Designer Spotlight: Daniele Tascini — analysis by The Dice Drop"
+description: "Designer Spotlight: Daniele Tascini  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/zapotec-cover.jpg"
-  alt: "Zapotec — box art"
+  alt: "Zapotec  -  box art"
   caption: "Image via www.boardgamebandit.ca"
   relative: true
 images:
@@ -86,7 +86,7 @@ In Tzolk'in, impulsivity can be your downfall. The rotating gears mean that ever
 
 **2. Prioritize Resource Management**
 
-Early resource accumulation is crucial. Corn isn't just for feeding your workers; it's the currency that oils the entire machine. Plan your placements to maximize corn collection and spending efficiency. Keep an eye on temple tracks for late-game bonuses—they can be game-changers.
+Early resource accumulation is crucial. Corn isn't just for feeding your workers; it's the currency that oils the entire machine. Plan your placements to maximize corn collection and spending efficiency. Keep an eye on temple tracks for late-game bonuses - they can be game-changers.
 
 **3. Adaptability Is Key**
 
@@ -144,7 +144,7 @@ The game thrives on converting resources into strategic advantages. Plan your co
 
 - **Resource Efficiency**: Across all his games, Tascini promotes resource efficiency. Streamline your operations to minimize waste and maximize output. Every resource should work for you, not against you.
 
-By mastering these tips and strategies, you'll not only enhance your enjoyment of Tascini's games but also establish yourself as a formidable force at the table. So, ready your gears, climb those pyramids, and build the cities of Ur—victory awaits those who dare to strategize deeply.
+By mastering these tips and strategies, you'll not only enhance your enjoyment of Tascini's games but also establish yourself as a formidable force at the table. So, ready your gears, climb those pyramids, and build the cities of Ur - victory awaits those who dare to strategize deeply.
 
 ## How to Choose a Daniele Tascini Game: A Buyer's Guide
 
@@ -194,4 +194,4 @@ Finally, decide whether theme or mechanics drive your enjoyment more. Tascini’
 
 ### Conclusion
 
-Choosing a Daniele Tascini game is like selecting the perfect wine for dinner—each one offers a unique flavor profile and experience. Whether you prioritize theme, mechanics, complexity, or replayability, Tascini’s portfolio has something to offer for every kind of board gamer. Take these factors into account, and you'll find the perfect game to roll out at your next game night.
+Choosing a Daniele Tascini game is like selecting the perfect wine for dinner - each one offers a unique flavor profile and experience. Whether you prioritize theme, mechanics, complexity, or replayability, Tascini’s portfolio has something to offer for every kind of board gamer. Take these factors into account, and you'll find the perfect game to roll out at your next game night.

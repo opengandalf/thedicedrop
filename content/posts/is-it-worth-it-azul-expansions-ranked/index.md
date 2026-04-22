@@ -9,13 +9,13 @@ tags:
   - "Azul"
   - "Board Games"
   - "Buying Guide"
-description: "Is It Worth It? Azul Expansions Ranked — analysis by The Dice Drop"
+description: "Is It Worth It? Azul Expansions Ranked  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/azul-series-cover.jpg"
   alt: "Azul series cover collage"
-  caption: "Azul series collage — The Dice Drop"
+  caption: "Azul series collage  -  The Dice Drop"
   relative: true
 images:
   - "images/og-card.jpg"

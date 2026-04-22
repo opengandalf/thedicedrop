@@ -9,12 +9,12 @@ tags:
   - "Pandemic"
   - "Board Games"
   - "Classic"
-description: "Retro Review: Pandemic (2008) — analysis by The Dice Drop"
+description: "Retro Review: Pandemic (2008)  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/pandemic-cover.jpg"
-  alt: "The Crew: The Quest for Planet Nine — box art"
+  alt: "The Crew: The Quest for Planet Nine  -  box art"
   caption: "Box art via BoardGameGeek"
   relative: true
 images:

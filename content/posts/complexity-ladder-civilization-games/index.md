@@ -34,7 +34,7 @@ It's also quick, widely available, and dangerously replayable for something this
 
 Still, as a first lesson in economic pacing and efficiency, it's excellent.
 
-![Splendor](images/splendor-cover.jpg "Splendor — Gateway+")
+![Splendor](images/splendor-cover.jpg "Splendor  -  Gateway+")
 
 What it introduces:
 - Engine-building
@@ -118,7 +118,7 @@ After a game about shared incentives, the natural next lesson is space. Actual m
 
 [Scythe](https://boardgamegeek.com/boardgame/169786) is the medium-weight civ-adjacent game I'd put in front of someone who wants conflict on the board without diving straight into a lifestyle game. It blends engine building, area control, worker placement, and combat in a way that looks far meaner than it often is. The giant mechs do a lot of marketing.
 
-![Scythe](images/scythe-cover.jpg "Scythe — Medium+")
+![Scythe](images/scythe-cover.jpg "Scythe  -  Medium+")
 
 Underneath that gorgeous art and those hulking m[inis](/posts/games-like-inis/) is a game about tempo. Produce, move, upgrade, deploy, enlist. Push your faction board and player mat into a slick personal engine, then use position on the map to convert that efficiency into stars and points.
 
@@ -144,7 +144,7 @@ If [Scythe](https://boardgamegeek.com/boardgame/169786) teaches pressure on the 
 
 [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028) is the spreadsheet that became sentient. I mean that with affection.
 
-![Through the Ages: A New Story of Civilization](images/through-the-ages-a-new-story-of-civilization-cover.jpg "Through the Ages: A New Story of Civilization — Heavy")
+![Through the Ages: A New Story of Civilization](images/through-the-ages-a-new-story-of-civilization-cover.jpg "Through the Ages: A New Story of Civilization  -  Heavy")
 
 This is the heavy rung because it demands relentless long-term planning. Every decision echoes. Your population, food, resources, science, military strength, government, leaders, wonders, and civil actions all interlock. There's very little fluff here. Very little forgiveness either. If you drift into a weak production base or neglect military, the game will punish you with the cold efficiency of a tax office.
 
@@ -170,7 +170,7 @@ If [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boa
 
 This is the big event game. The one people schedule three weeks in advance and then cancel because somebody's child has a temperature.
 
-![Twilight Imperium: Fourth Edition](images/twilight-imperium-4th-edition-cover.jpg "Twilight Imperium: Fourth Edition — Heavy")
+![Twilight Imperium: Fourth Edition](images/twilight-imperium-4th-edition-cover.jpg "Twilight Imperium: Fourth Edition  -  Heavy")
 
 [Twilight Imperium: Fourth Edition](https://boardgamegeek.com/boardgame/233078) is where civilisation gaming stops being just systems mastery and becomes social theatre. You're still building your economy, researching technology, expanding fleets, and chasing objectives. But now politics matters. Negotiation matters. Threat assessment matters. Promises matter, right up until they don't.
 
@@ -180,7 +180,7 @@ You can be doing perfectly sensible strategic things and still lose because you 
 
 This is one of my all-time favourites for a reason. Few games create stories like this. Few games also demand this much time, patience, and the right group. Uneven experience levels can wreck it. A bad teach can wreck it. One grumpy player can turn the whole galactic senate into a hostage situation.
 
-The BGG weight is technically a hair lower than [Through the Ages](https://boardgamegeek.com/boardgame/182028). Ignore that. The total commitment — the day-long playtime, the social endurance, the sheer scale of what you're managing across six players and a modular galaxy — makes this the true summit of civilisation gaming. There is no rung above this one.
+The BGG weight is technically a hair lower than [Through the Ages](https://boardgamegeek.com/boardgame/182028). Ignore that. The total commitment  -  the day-long playtime, the social endurance, the sheer scale of what you're managing across six players and a modular galaxy  -  makes this the true summit of civilisation gaming. There is no rung above this one.
 
 **Skip to here if...** your group already loves long games, negotiation, and big-table drama, and "240-480 min" sounds exciting rather than medically concerning.
 

@@ -9,12 +9,12 @@ tags:
   - "Legacy"
   - "Campaign"
   - "Board Games"
-description: "The Best Legacy Board Games in 2026 — analysis by The Dice Drop"
+description: "The Best Legacy Board Games in 2026  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/betrayal-legacy-cover.jpg"
-  alt: "Betrayal Legacy — box art"
+  alt: "Betrayal Legacy  -  box art"
   caption: "Image via massdrop-s3.imgix.net"
   relative: true
 images:
@@ -288,14 +288,14 @@ This is for larger groups who already enjoy Werewolf-style games and have a mode
 
 The defining moment is when a player’s reputation from previous sessions affects a current vote even before any evidence appears. In a normal social deduction game, that would just be table meta. In Ultimate Werewolf Legacy, it becomes part of the campaign’s actual identity.
 
-## 15. [Vampire: The Masquerade – Heritage](https://boardgamegeek.com/boardgame/300072)
+## 15. [Vampire: The Masquerade - Heritage](https://boardgamegeek.com/boardgame/300072)
 
 **BGG rating:** 7.7  
 **Players:** 2-4  
 **Play time:** 30-120 minutes  
 **Typical price:** around $60-$90
 
-Vampire: The Masquerade – Heritage is one of the more intriguing narrative card-driven legacy games of the last few years. It blends hand management, tableau-style development, and branching narrative in a centuries-spanning story of vampire lineage, politics, and identity. It is moodier and more intimate than many campaign games, which helps it stand out.
+Vampire: The Masquerade - Heritage is one of the more intriguing narrative card-driven legacy games of the last few years. It blends hand management, tableau-style development, and branching narrative in a centuries-spanning story of vampire lineage, politics, and identity. It is moodier and more intimate than many campaign games, which helps it stand out.
 
 What makes it special is atmosphere. A lot of legacy games are about systems first and story second. Heritage puts lineage and narrative framing front and center, and that gives the campaign a very different emotional texture.
 
@@ -319,7 +319,7 @@ If you want the ranking in a clean list, here’s where I land in 2026:
 10. [Risk Legacy](https://boardgamegeek.com/boardgame/105134)  
 11. [My City](https://boardgamegeek.com/boardgame/295486)  
 12. [Jurassic World: The Legacy of Isla Nublar](https://boardgamegeek.com/boardgame/352697)  
-13. [Vampire: The Masquerade – Heritage](https://boardgamegeek.com/boardgame/300072)  
+13. [Vampire: The Masquerade - Heritage](https://boardgamegeek.com/boardgame/300072)  
 14. [Ultimate Werewolf Legacy](https://boardgamegeek.com/boardgame/239188)  
 15. [SeaFall](https://boardgamegeek.com/boardgame/148261)  
 

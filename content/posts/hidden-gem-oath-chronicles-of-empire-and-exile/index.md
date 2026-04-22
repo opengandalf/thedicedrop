@@ -9,12 +9,12 @@ tags:
   - "Oath: Chronicles of Empire and Exile"
   - "Board Games"
   - "Review"
-description: "Hidden Gem: Oath: Chronicles of Empire and Exile — analysis by The Dice Drop"
+description: "Hidden Gem: Oath: Chronicles of Empire and Exile  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/oath-chronicles-of-empire-and-exile-cover.jpg"
-  alt: "Twilight Imperium — box art"
+  alt: "Twilight Imperium  -  box art"
   caption: "Box art via BoardGameGeek"
   relative: true
 images:

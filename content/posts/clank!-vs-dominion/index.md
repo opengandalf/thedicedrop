@@ -10,12 +10,12 @@ tags:
   - "Dominion"
   - "Comparison"
   - "Board Games"
-description: "Clank! vs Dominion — analysis by The Dice Drop"
+description: "Clank! vs Dominion  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/clank-cover.jpg"
-  alt: "Clank! — box art"
+  alt: "Clank!  -  box art"
   caption: "Clank! A Deck-Building Adventure by Renegade Game Studios"
   relative: true
 ---
@@ -43,7 +43,7 @@ Look, *Clank!* is dripping with theme. You've got a board that looks like a trea
 **Winner: Clank! 🏆** - Because when a game makes you sweat over a stack of cards, it’s doing something right.
 
 ### Replayability
-*Dominion* has literally hundreds of expansions. That's not hyperbole. Each one adds a new twist—new strategies, new combinations. You could spend years exploring them all. *Clank!* has expansions too, but they’re fewer and more about adding specific themes rather than reinventing the gameplay wheel.
+*Dominion* has literally hundreds of expansions. That's not hyperbole. Each one adds a new twist - new strategies, new combinations. You could spend years exploring them all. *Clank!* has expansions too, but they’re fewer and more about adding specific themes rather than reinventing the gameplay wheel.
 
 **Winner: Dominion 🏆** - It's the gift that keeps on giving. Forever.
 
@@ -58,7 +58,7 @@ Both games play well with different numbers, but *Clank!* shines when you have t
 **Winner: Clank!** - Because nothing beats a dragon-induced adrenaline rush with friends.
 
 ### Table Presence
-The board, the meeples, the colorful art—*Clank!* is a feast for the eyes. It makes its presence known. *Dominion* is a bit more subdued. Sure, the cards are nice, but it’s like comparing a fireworks show to a library reading. You get the picture.
+The board, the meeples, the colorful art - *Clank!* is a feast for the eyes. It makes its presence known. *Dominion* is a bit more subdued. Sure, the cards are nice, but it’s like comparing a fireworks show to a library reading. You get the picture.
 
 **Winner: Clank! 🏆** - Because when your game looks good enough to eat, it's doing something special.
 

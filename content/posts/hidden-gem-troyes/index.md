@@ -21,7 +21,7 @@ TocOpen: false
 
 ### The Pitch: Why Troyes Deserves Your Attention
 
-![Troyes](images/troyes-cover.jpg "Troyes — medieval dice-drafting at its finest")
+![Troyes](images/troyes-cover.jpg "Troyes  -  medieval dice-drafting at its finest")
 
 Look, if you've been diving into the shimmering waters of board gaming for some time now, you know how easy it is for gems to slip through the cracks. [Troyes](https://boardgamegeek.com/boardgame/73439/troyes) is one such overlooked masterpiece. This medieval-themed dice placement game is not just another Euro to put on the shelf next to your copy of Agricola. It's an intricate dance of strategy, luck mitigation, and deep tactical decisions that rewards the brainiacs who dare to engage with it. It's a hidden gem that's remained under the radar, but I'm here to tell you why it deserves a spotlight.
 

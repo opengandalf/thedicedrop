@@ -9,7 +9,7 @@ tags:
   - "Vlaada Chvatil"
   - "Board Games"
   - "Analysis"
-description: "Designer Spotlight: Vlaada Chvatil — analysis by The Dice Drop"
+description: "Designer Spotlight: Vlaada Chvatil  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
@@ -21,7 +21,7 @@ images:
   - "images/og-card.jpg"
 ---
 
-Look, if you're even remotely interested in board games, you've heard of Vlaada Chvátil. This guy is a legend in the board gaming world, and not just for cranking out hits. He’s the kind of designer who makes you scratch your head in disbelief at how he can jump from one genre to another without a hitch. We're talking about the creator of [Through the Ages: A Story of Civilization](https://boardgamegeek.com/boardgame/25613/through-ages-story-civilization), [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game), and [Codenames](https://boardgamegeek.com/boardgame/178900/codenames) — each a titan in its category.
+Look, if you're even remotely interested in board games, you've heard of Vlaada Chvátil. This guy is a legend in the board gaming world, and not just for cranking out hits. He’s the kind of designer who makes you scratch your head in disbelief at how he can jump from one genre to another without a hitch. We're talking about the creator of [Through the Ages: A Story of Civilization](https://boardgamegeek.com/boardgame/25613/through-ages-story-civilization), [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game), and [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)  -  each a titan in its category.
 
 Here's the thing: Chvátil's career started in video games, and you can see that influence in his board game designs. He made his board game debut with *Arena: Morituri te Salutant* in 1997, but it was *Through the Ages* in 2006 that really put him on the map. This was his ticket to the big league, establishing him as a key figure in strategy games. But does that mean he's all about heavy strategy? Not a chance. 
 
@@ -31,7 +31,7 @@ Then, just when you think you've figured him out, Chvátil drops [Codenames](htt
 ![Codenames](images/codenames-cover.jpg "Codenames")
 
 
-Now, if we’re ranking them, [Through the Ages](https://boardgamegeek.com/boardgame/25613/through-ages-story-civilization) has to top the list. It's Chvátil's magnum opus, a civilization-building beast that’s a favorite among hardcore strategists. Next, I'd put [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game), because it’s an experience unlike any other—immersive and deeply complex. Then [Codenames](https://boardgamegeek.com/boardgame/178900/codenames) for its sheer approachability and infectious fun. Don't sleep on [Galaxy Trucker](https://boardgamegeek.com/boardgame/31481/galaxy-trucker) though, because if chaos and humor are your thing, it’s a wild ride. Finally, there's [Dungeon Petz](https://boardgamegeek.com/boardgame/97207/dungeon-petz), which combines thematic complexity with strategic depth, all wrapped in a quirky, humorous package.
+Now, if we’re ranking them, [Through the Ages](https://boardgamegeek.com/boardgame/25613/through-ages-story-civilization) has to top the list. It's Chvátil's magnum opus, a civilization-building beast that’s a favorite among hardcore strategists. Next, I'd put [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game), because it’s an experience unlike any other - immersive and deeply complex. Then [Codenames](https://boardgamegeek.com/boardgame/178900/codenames) for its sheer approachability and infectious fun. Don't sleep on [Galaxy Trucker](https://boardgamegeek.com/boardgame/31481/galaxy-trucker) though, because if chaos and humor are your thing, it’s a wild ride. Finally, there's [Dungeon Petz](https://boardgamegeek.com/boardgame/97207/dungeon-petz), which combines thematic complexity with strategic depth, all wrapped in a quirky, humorous package.
 
 Start here: If you’re a newcomer, grab a copy of [Codenames](https://boardgamegeek.com/boardgame/178900/codenames). It’s accessible, engaging, and a perfect gateway into the world of Chvátil. If your tastes lean more towards strategy and you're game for something heavier, dive into [Through the Ages](https://boardgamegeek.com/boardgame/25613/through-ages-story-civilization). Just be ready for a brain-burner.
 

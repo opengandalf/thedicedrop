@@ -9,12 +9,12 @@ tags:
   - "Family"
   - "Board Games"
   - "Buying Guide"
-description: "The Best Family Board Games in 2026 — analysis by The Dice Drop"
+description: "The Best Family Board Games in 2026  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/forbidden-island-cover.jpg"
-  alt: "Forbidden Island — box art"
+  alt: "Forbidden Island  -  box art"
   caption: "Box art via BoardGameGeek"
   relative: true
 images:

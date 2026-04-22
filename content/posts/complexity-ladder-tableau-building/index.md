@@ -9,12 +9,12 @@ tags:
   - "Tableau Building"
   - "Guide"
   - "Board Games"
-description: "The Tableau Building Complexity Ladder — analysis by The Dice Drop"
+description: "The Tableau Building Complexity Ladder  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/51st-state-master-set-cover.jpg"
-  alt: "51st State: Master Set — box art"
+  alt: "51st State: Master Set  -  box art"
   caption: "Image via www.boardgamequest.com"
   relative: true
 images:

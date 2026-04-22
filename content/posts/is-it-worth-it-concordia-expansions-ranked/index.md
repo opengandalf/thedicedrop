@@ -9,12 +9,12 @@ tags:
   - "Concordia"
   - "Board Games"
   - "Buying Guide"
-description: "Is It Worth It? Concordia Expansions Ranked — analysis by The Dice Drop"
+description: "Is It Worth It? Concordia Expansions Ranked  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/concordia-cover.jpg"
-  alt: "Concordia — box art"
+  alt: "Concordia  -  box art"
   caption: "Box art via BoardGameGeek"
   relative: true
 images:

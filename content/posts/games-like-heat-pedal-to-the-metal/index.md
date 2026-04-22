@@ -9,12 +9,12 @@ tags:
   - "Heat: Pedal to the Metal"
   - "Recommendations"
   - "Board Games"
-description: "5 Games Like Heat: Pedal to the Metal — analysis by The Dice Drop"
+description: "5 Games Like Heat: Pedal to the Metal  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/heat-pedal-to-the-metal-cover.jpg"
-  alt: "Heat: Pedal to the Metal — box art"
+  alt: "Heat: Pedal to the Metal  -  box art"
   caption: "Image via boardgamewire.com"
   relative: true
 images:
@@ -35,7 +35,7 @@ Heat’s DNA is built from a few key pieces:
 - A ruleset that stays approachable while still creating real tactical tension
 - Constant pressure to push harder than feels safe
 
-So this list focuses on games that recreate Heat’s blend of pacing, risk, and race tension — whether through card-driven speed control, punishing corner decisions, or the constant pressure to push one turn harder than feels safe.
+So this list focuses on games that recreate Heat’s blend of pacing, risk, and race tension  -  whether through card-driven speed control, punishing corner decisions, or the constant pressure to push one turn harder than feels safe.
 
 ## [Flamme Rouge](https://boardgamegeek.com/boardgame/199478/flamme-rouge)
 

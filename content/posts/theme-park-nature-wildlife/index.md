@@ -9,12 +9,12 @@ tags:
   - "Nature & Wildlife"
   - "Board Games"
   - "Buying Guide"
-description: "Theme Park: Nature & Wildlife — analysis by The Dice Drop"
+description: "Theme Park: Nature & Wildlife  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/photosynthesis-cover.jpg"
-  alt: "Photosynthesis — box art"
+  alt: "Photosynthesis  -  box art"
   caption: "Image via Wikipedia (fair use). Photosynthesis."
   relative: true
 images:

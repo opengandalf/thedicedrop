@@ -9,12 +9,12 @@ tags:
   - "BGG"
   - "Analysis"
   - "Board Games"
-description: "Hype vs Reality: March 2026 Edition — analysis by The Dice Drop"
+description: "Hype vs Reality: March 2026 Edition  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/sky-team-cover.jpg"
-  alt: "Sky Team — box art"
+  alt: "Sky Team  -  box art"
   caption: "Box art via BoardGameGeek"
   relative: true
 images:

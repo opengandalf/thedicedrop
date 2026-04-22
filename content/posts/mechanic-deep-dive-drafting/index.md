@@ -9,12 +9,12 @@ tags:
   - "Drafting"
   - "Board Games"
   - "Analysis"
-description: "Mechanic Deep Dive: Drafting — analysis by The Dice Drop"
+description: "Mechanic Deep Dive: Drafting  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/7-wonders-cover.jpg"
-  alt: "7 Wonders — box art"
+  alt: "7 Wonders  -  box art"
   caption: "Box art via BoardGameGeek"
   relative: true
 images:

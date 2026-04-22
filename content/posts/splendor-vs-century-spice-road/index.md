@@ -10,12 +10,12 @@ tags:
   - "Century: Spice Road"
   - "Comparison"
   - "Board Games"
-description: "Splendor vs Century: Spice Road — analysis by The Dice Drop"
+description: "Splendor vs Century: Spice Road  -  analysis by The Dice Drop"
 ShowToc: true
 TocOpen: false
 cover:
   image: "images/splendor-cover.jpg"
-  alt: "Splendor — box art"
+  alt: "Splendor  -  box art"
   caption: "Image via www.geekyhobbies.com"
   relative: true
 ---
@@ -38,7 +38,7 @@ Here's the thing: [Splendor](https://boardgamegeek.com/boardgame/148228/splendor
 
 ### Theme & Immersion
 
-Neither game is going to transport you into a deep narrative universe. Splendor's theme—a Renaissance jeweler acquiring gems—is as thin as a single-ply tissue. Century, with its spice trading across the Silk Road, tries a bit harder. The tactile pleasure of handling those spice cubes and metal coins adds a layer of immersion that Splendor’s poker chips just don’t touch. Century wins on atmosphere.
+Neither game is going to transport you into a deep narrative universe. Splendor's theme - a Renaissance jeweler acquiring gems - is as thin as a single-ply tissue. Century, with its spice trading across the Silk Road, tries a bit harder. The tactile pleasure of handling those spice cubes and metal coins adds a layer of immersion that Splendor’s poker chips just don’t touch. Century wins on atmosphere.
 
 ### Replayability
 

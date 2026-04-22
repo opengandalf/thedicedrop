@@ -43,7 +43,7 @@ The cards feed a lovely little symbol economy. Wood and stone become tools. Tool
 
 Then night arrives, and the game twists the knife. You feed one food per person. Miss that, and skulls start piling up. Scenario demands kick in too. Fail those, more pain. Then you reshuffle for the next day, except the dead and lost cards are gone for good. So the deck changes over time. Your tribe gets tougher in some ways, more fragile in others. It’s a proper survival spiral, and I mean that as praise.
 
-The game supports 1-4 players at around 45-90 minutes, which feels right for the kind of session it wants to deliver. On BGG, [Paleo](https://boardgamegeek.com/boardgame/300531) sits at overall rank #232 — solid, but that single number massively undersells what this thing actually does at the table. It also quietly won the **2021 Kennerspiel des Jahres**, one of the most prestigious awards in the hobby, beating out *Fantasy Realms* and *Lost Ruins of Arnak*. A Kennerspiel winner still feeling overlooked three years later is basically the definition of a hidden gem.
+The game supports 1-4 players at around 45-90 minutes, which feels right for the kind of session it wants to deliver. On BGG, [Paleo](https://boardgamegeek.com/boardgame/300531) sits at overall rank #232  -  solid, but that single number massively undersells what this thing actually does at the table. It also quietly won the **2021 Kennerspiel des Jahres**, one of the most prestigious awards in the hobby, beating out *Fantasy Realms* and *Lost Ruins of Arnak*. A Kennerspiel winner still feeling overlooked three years later is basically the definition of a hidden gem.
 
 Once that structure clicks, the rest of the game’s appeal makes a lot more sense.
 

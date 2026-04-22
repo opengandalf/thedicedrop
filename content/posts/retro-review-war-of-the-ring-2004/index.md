@@ -25,11 +25,11 @@ images:
 
 There are licensed games, and then there are games that make people shut up, lean over the board, and start speaking in full Tolkien narrator voice by hour two.
 
-[War of the Ring](https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition) is one of the rare ones. The kind where a licensed property stopped being a ceiling and became a launchpad. When Nexus Editrice released the first edition in 2004, nobody expected it to become a stone-cold all-time classic. Most licensed games of that era were competent at best — pretty boxes, middling gameplay, shelf filler. This one was different.
+[War of the Ring](https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition) is one of the rare ones. The kind where a licensed property stopped being a ceiling and became a launchpad. When Nexus Editrice released the first edition in 2004, nobody expected it to become a stone-cold all-time classic. Most licensed games of that era were competent at best  -  pretty boxes, middling gameplay, shelf filler. This one was different.
 
 Designed by Roberto Di Meglio, Marco Maggi, and Francesco Nepitello, [War of the Ring](https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition) proved a Lord of the Rings board game didn't have to be a plastic souvenir or a movie tie-in cash grab. It built a proper, ambitious asymmetric war game around Tolkien's world and got the structure right in ways that still hold up today.
 
-The Second Edition arrived in 2011 through Ares Games — better production, cleaner rules, same essential design. That's the version most people mean when they talk about this game now, and it's the version that has earned a **#8 overall rank on BGG**, an **8.55/10** from over **24,000 ratings**, and a **4.22/5 complexity weight**. Not a cult obscurity. One of the best-reviewed board games ever made.
+The Second Edition arrived in 2011 through Ares Games  -  better production, cleaner rules, same essential design. That's the version most people mean when they talk about this game now, and it's the version that has earned a **#8 overall rank on BGG**, an **8.55/10** from over **24,000 ratings**, and a **4.22/5 complexity weight**. Not a cult obscurity. One of the best-reviewed board games ever made.
 
 This article looks at why it worked, how it plays today, what has aged beautifully, what hasn't, and whether it still deserves space on the shelf in 2026.
 
@@ -39,7 +39,7 @@ This article looks at why it worked, how it plays today, what has aged beautiful
 
 In 2004, the dominant template for licensed board games was either a) paste the IP onto a known mechanism (Monopoly, Risk, whatever) or b) create a niche hobby product that the hardcore would tolerate and everyone else would ignore. [War of the Ring](https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition) ignored both templates.
 
-What Di Meglio, Maggi, and Nepitello understood — and what makes the game genuinely important — is that Tolkien's narrative has a *structural* asymmetry that a board game could express mechanically. The Shadow isn't trying to do the same thing as the Free Peoples. It's running a conquest engine, grinding forward across Middle-earth, applying pressure from every direction. The Free Peoples are trying to survive long enough for two hobbits to walk into a volcano.
+What Di Meglio, Maggi, and Nepitello understood  -  and what makes the game genuinely important  -  is that Tolkien's narrative has a *structural* asymmetry that a board game could express mechanically. The Shadow isn't trying to do the same thing as the Free Peoples. It's running a conquest engine, grinding forward across Middle-earth, applying pressure from every direction. The Free Peoples are trying to survive long enough for two hobbits to walk into a volcano.
 
 That contrast isn't just cosmetic. The two sides have fundamentally different win conditions, different action economies, different decision textures. The Shadow accumulates and advances. The Free Peoples delay, sacrifice, and hope.
 
@@ -52,8 +52,8 @@ It also helped push the hobby's expectations for licensed games permanently upwa
 - **BGG Rank:** #8 overall
 - **Rating:** 8.55/10 from 24,914 ratings
 - **Weight:** 4.22/5
-- **Players:** 2–4 (best at 2)
-- **Playtime:** 150–180 minutes (experienced); 240–300+ minutes (with new players)
+- **Players:** 2-4 (best at 2)
+- **Playtime:** 150-180 minutes (experienced); 240-300+ minutes (with new players)
 - **Designers:** Roberto Di Meglio, Marco Maggi, Francesco Nepitello
 - **Art:** John Howe
 - **Publisher:** Ares Games (Second Edition, 2011); originally Nexus Editrice (2004)
@@ -68,7 +68,7 @@ The action dice system remains the core of everything and it still holds up bril
 
 That's not swingy in the way that makes games feel arbitrary. It's urgent in a way that makes every round feel like genuine decision-making under pressure. You are not always choosing between good options and great options. You are often choosing between bad options and worse ones. That's where the tension lives.
 
-More importantly, the game still *feels* like Tolkien. Not vaguely fantasy. Tolkien. The corruption track matters. The political awakening of the nations matters. Gandalf's timing matters. The military campaign is never just chrome sitting beside the Ring journey — they're tangled together in exactly the way they should be. Pushing the Fellowship forward without military cover is reckless. Ignoring the Fellowship while fighting the war is fatal. The two tracks constrain and inform each other constantly.
+More importantly, the game still *feels* like Tolkien. Not vaguely fantasy. Tolkien. The corruption track matters. The political awakening of the nations matters. Gandalf's timing matters. The military campaign is never just chrome sitting beside the Ring journey  -  they're tangled together in exactly the way they should be. Pushing the Fellowship forward without military cover is reckless. Ignoring the Fellowship while fighting the war is fatal. The two tracks constrain and inform each other constantly.
 
 That said, the cost of its ambition is real. The rules overhead is substantial. A first teach can be genuinely rough. Setup and teardown take time. If your group hates checking iconography across multiple subsystems, this game will test patience. There's a reason people keep [Root](https://boardgamegeek.com/boardgame/237182/root) and [War of the Ring](https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition) in very different mental boxes even though both are famous for asymmetry. One is easier to get back to the table.
 
@@ -84,19 +84,19 @@ The Shadow is expansion, pressure, inevitability. The Free Peoples are delay, su
 
 This was a significant idea. Custom dice driving your available actions in a large-scale strategy game sounds swingy on paper. In practice it creates urgency. You're not choosing the best move from an open field. You're choosing the best move from a painful, imperfect menu.
 
-The interesting thing about the dice isn't randomness — it's prioritization. What do you spend when you can't have everything? That question sits at the heart of every round, and it hasn't lost its bite.
+The interesting thing about the dice isn't randomness  -  it's prioritization. What do you spend when you can't have everything? That question sits at the heart of every round, and it hasn't lost its bite.
 
 Modern designs have cleaner systems. Fewer have this much tension packed into each turn.
 
 ### Theme integration is absurdly good
 
-[War of the Ring](https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition) is still one of the most immersive adaptations ever made. It doesn't lean on movie stills or surface references. It understands the structure of Tolkien's world at a narrative level — that military threat is real but brute force alone cannot win, that the Ring quest is central but cannot happen in a vacuum, that the Free Peoples are always outmatched and must endure rather than overwhelm.
+[War of the Ring](https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition) is still one of the most immersive adaptations ever made. It doesn't lean on movie stills or surface references. It understands the structure of Tolkien's world at a narrative level  -  that military threat is real but brute force alone cannot win, that the Ring quest is central but cannot happen in a vacuum, that the Free Peoples are always outmatched and must endure rather than overwhelm.
 
 The game gets that balance right. A lot of Lord of the Rings games are fun. [War of the Ring](https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition) is the one that most often makes players say, "Yeah, that felt like the books." That's not a small achievement for a game built around moving plastic figures around a map.
 
 ### The event card system gives it depth and replayability
 
-The event cards — split into Shadow and Free Peoples decks, further split into Character and Strategy cards — inject narrative texture and strategic variance that keep the game fresh across plays. You're not just maneuvering armies. You're managing a hand that can reinforce, surprise, and pivot. Cards referencing Saruman, the Nazgûl, the Ents, and a dozen other moving parts mean no two games follow the same arc.
+The event cards  -  split into Shadow and Free Peoples decks, further split into Character and Strategy cards  -  inject narrative texture and strategic variance that keep the game fresh across plays. You're not just maneuvering armies. You're managing a hand that can reinforce, surprise, and pivot. Cards referencing Saruman, the Nazgûl, the Ents, and a dozen other moving parts mean no two games follow the same arc.
 
 This is still ahead of most wargame designs in terms of marrying narrative flavour with mechanical impact.
 
@@ -112,7 +112,7 @@ The Second Edition improved the rulebook significantly. It's still demanding. BG
 
 ### It demands significant time and commitment
 
-Three-plus hours is standard. More with newer players. That was easier to accept in an era when giant event games had less competition. In 2026, heavyweight players have options — good options, many of them easier to set up, easier to teach, and easier to finish before midnight.
+Three-plus hours is standard. More with newer players. That was easier to accept in an era when giant event games had less competition. In 2026, heavyweight players have options  -  good options, many of them easier to set up, easier to teach, and easier to finish before midnight.
 
 Scheduling [War of the Ring](https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition) has always been a commitment. That barrier hasn't shrunk. If anything, it feels higher as gaming schedules get busier and alternatives multiply.
 
@@ -128,7 +128,7 @@ If you want huge asymmetry and table presence without the weight, [Root](https:/
 
 ![Root](images/root-cover.jpg)
 
-If you want sprawling conflict on an absurd scale, [Twilight Imperium](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition) covers similar emotional territory — that feeling of civilisations rising and colliding, of epic decisions made under time pressure — and it does it with an even bigger box, even more players, and even more commitment. Different animal, same category of lifestyle event.
+If you want sprawling conflict on an absurd scale, [Twilight Imperium](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition) covers similar emotional territory  -  that feeling of civilisations rising and colliding, of epic decisions made under time pressure  -  and it does it with an even bigger box, even more players, and even more commitment. Different animal, same category of lifestyle event.
 
 ![Twilight Imperium](images/twilight-imperium-cover.jpg)
 

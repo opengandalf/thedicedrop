@@ -20,8 +20,8 @@ This ladder takes you from "I've never fought over a map" to "I'm negotiating tr
 
 ## 🟢 Rung 1: [Eight-Minute Empire: Legends](https://boardgamegeek.com/boardgame/142326)
 **Weight:** 1.96/5
-**Players:** 2–4
-**Play time:** 8–20 min
+**Players:** 2-4
+**Play time:** 8-20 min
 **BGG Rating:** 6.91/10, Rank #1,379
 
 ![Eight-Minute Empire: Legends](images/eight-minute-empire-legends.jpg)
@@ -37,8 +37,8 @@ What makes it brilliant as a first rung is the **card row economy**. Cards on th
 
 ## 🟡 Rung 2: [Small World](https://boardgamegeek.com/boardgame/40692)
 **Weight:** 2.35/5
-**Players:** 2–5
-**Play time:** 40–80 min
+**Players:** 2-5
+**Play time:** 40-80 min
 **BGG Rating:** 7.19/10, Rank #404
 
 ![Small World](images/small-world.jpg)
@@ -46,16 +46,16 @@ What makes it brilliant as a first rung is the **card row economy**. Cards on th
 
 Small World adds the concept that made Risk boring and makes it fun: **decline**. Your race will spread across the map, score points for territories held, and then inevitably overextend. At that point, you put them into decline (flip the tokens over, they become zombified husks) and draft a completely new race-power combo.
 
-This is where area control gets its first real strategic layer. The map is deliberately too small — the name isn't subtle — so conflict is guaranteed from turn one. But the decline mechanic means you're never stuck with a bad position. You're always one turn away from a fresh start with Flying Amazons or Commando Halflings or whatever absurd combination the randomiser has thrown up.
+This is where area control gets its first real strategic layer. The map is deliberately too small  -  the name isn't subtle  -  so conflict is guaranteed from turn one. But the decline mechanic means you're never stuck with a bad position. You're always one turn away from a fresh start with Flying Amazons or Commando Halflings or whatever absurd combination the randomiser has thrown up.
 
 **What it teaches you:** Timing your aggression. When to overextend and when to consolidate. The concept of knowing when to abandon a position rather than defending it.
 
-**The jump from Rung 1:** Eight-Minute Empire gave you spatial thinking. Small World adds **tempo** — the game rewards knowing *when* to act, not just *where*.
+**The jump from Rung 1:** Eight-Minute Empire gave you spatial thinking. Small World adds **tempo**  -  the game rewards knowing *when* to act, not just *where*.
 
 ## 🟠 Rung 3: [Blood Rage](https://boardgamegeek.com/boardgame/170216)
 **Weight:** 2.88/5
-**Players:** 2–4
-**Play time:** 60–90 min
+**Players:** 2-4
+**Play time:** 60-90 min
 **BGG Rating:** 7.90/10, Rank #65
 
 ![Blood Rage](images/blood-rage.jpg)
@@ -63,18 +63,18 @@ This is where area control gets its first real strategic layer. The map is delib
 
 Now we're cooking. Blood Rage wraps area control inside a **card drafting engine** and says "also, dying can be a valid strategy."
 
-Each age begins with a draft: you pick cards that give you combat bonuses, quest objectives, upgrades, and monsters. Then you deploy Vikings to provinces on the map and fight over them. Provinces that get destroyed by Ragnarök score nothing — unless you drafted the cards that reward you for losing battles in doomed provinces. Yes, you can build an entire strategy around glorious defeat.
+Each age begins with a draft: you pick cards that give you combat bonuses, quest objectives, upgrades, and monsters. Then you deploy Vikings to provinces on the map and fight over them. Provinces that get destroyed by Ragnarök score nothing  -  unless you drafted the cards that reward you for losing battles in doomed provinces. Yes, you can build an entire strategy around glorious defeat.
 
 This is the rung where area control stops being purely about map position and starts being about **reading your opponents' plans through the draft**. If someone is taking every Loki card (the trickster god who rewards losing), you know their Vikings are expendable. If someone's loading up on combat strength, you know where *not* to pick a fight.
 
 **What it teaches you:** Draft reading. Multi-path victory strategies. The idea that map control is a means to an end, not the end itself.
 
-**The jump from Rung 2:** Small World taught you timing. Blood Rage adds **hidden information** — you can't see exactly what your opponents drafted, so you have to read the table.
+**The jump from Rung 2:** Small World taught you timing. Blood Rage adds **hidden information**  -  you can't see exactly what your opponents drafted, so you have to read the table.
 
 ## 🟠 Rung 4: [El Grande](https://boardgamegeek.com/boardgame/93)
 **Weight:** 2.93/5
-**Players:** 2–5
-**Play time:** 60–120 min
+**Players:** 2-5
+**Play time:** 60-120 min
 **BGG Rating:** 7.77/10, Rank #100
 
 ![El Grande](images/el-grande.jpg)
@@ -82,18 +82,18 @@ This is the rung where area control stops being purely about map position and st
 
 The granddaddy. Published in 1995, El Grande essentially *defined* modern area control. It's been in the BGG Top 100 for over two decades, and it earns that spot every single year.
 
-The core mechanism is fiendishly elegant: each round, you play a power card (numbered 1–13) to determine turn order. Higher card = earlier pick of the action cards. But here's the twist — each action card has a different ability *and* lets you deploy a different number of caballeros to the board. The strongest abilities often come with the fewest deployments. So you're constantly torn between doing something powerful and actually getting troops on the map.
+The core mechanism is fiendishly elegant: each round, you play a power card (numbered 1-13) to determine turn order. Higher card = earlier pick of the action cards. But here's the twist  -  each action card has a different ability *and* lets you deploy a different number of caballeros to the board. The strongest abilities often come with the fewest deployments. So you're constantly torn between doing something powerful and actually getting troops on the map.
 
-And then there's the Castillo — a cardboard tower where you can secretly place caballeros, and they only get revealed and distributed during scoring rounds. It's the purest form of area control bluffing in any game, ever.
+And then there's the Castillo  -  a cardboard tower where you can secretly place caballeros, and they only get revealed and distributed during scoring rounds. It's the purest form of area control bluffing in any game, ever.
 
-**What it teaches you:** Turn order manipulation. The Castillo teaches **hidden commitment** — putting resources into a secret bet. Scoring round awareness (you can see exactly when the three scoring rounds happen, so everything is about positioning for those moments).
+**What it teaches you:** Turn order manipulation. The Castillo teaches **hidden commitment**  -  putting resources into a secret bet. Scoring round awareness (you can see exactly when the three scoring rounds happen, so everything is about positioning for those moments).
 
 **The jump from Rung 3:** Blood Rage's draft gave you hidden information. El Grande makes the bluffing *spatial* with the Castillo, and adds the critical skill of **playing to the scoring rhythm** rather than fighting constantly.
 
 ## 🔴 Rung 5: [Inis](https://boardgamegeek.com/boardgame/155821)
 **Weight:** 2.94/5
-**Players:** 2–4
-**Play time:** 60–90 min
+**Players:** 2-4
+**Play time:** 60-90 min
 **BGG Rating:** 7.81/10, Rank #124
 
 ![Inis](images/inis.jpg)
@@ -105,24 +105,24 @@ Three victory conditions. You can win by being present in six different territor
 
 Combat is optional. Clashes happen when two players are in the same territory and one initiates, but you can always negotiate peace. The card draft (similar to Blood Rage, but with a rotating hand of action and advantage cards) means you know roughly what everyone *could* do, but not what they *will* do.
 
-**What it teaches you:** Diplomacy as a core mechanism. Multiple-path victory tracking. The art of disguising your intentions — looking weak when you're strong, looking disinterested when you're one move from winning.
+**What it teaches you:** Diplomacy as a core mechanism. Multiple-path victory tracking. The art of disguising your intentions  -  looking weak when you're strong, looking disinterested when you're one move from winning.
 
 **The jump from Rung 4:** El Grande taught you to play the scoring rhythm. Inis removes fixed scoring rounds entirely and replaces them with a constant, nerve-wracking proximity to victory that makes every single card play political.
 
 ## 🔴 Rung 6: [Root](https://boardgamegeek.com/boardgame/237182)
 **Weight:** 3.84/5
-**Players:** 2–4
-**Play time:** 60–90 min
+**Players:** 2-4
+**Play time:** 60-90 min
 **BGG Rating:** 8.07/10, Rank #34
 
 ![Root](images/root.jpg)
 *Box art: Leder Games*
 
-Root is where area control goes asymmetric, and it's a significant jump. Every faction plays by completely different rules. The Marquise de Cat is an industrialist, building sawmills and workshops across the forest. The Eyrie Dynasty follows a programmed decree that gets more powerful but more fragile each turn. The Woodland Alliance is an insurgency, building sympathy and erupting into revolt. The Vagabond isn't even playing area control — they're playing an RPG inside someone else's wargame.
+Root is where area control goes asymmetric, and it's a significant jump. Every faction plays by completely different rules. The Marquise de Cat is an industrialist, building sawmills and workshops across the forest. The Eyrie Dynasty follows a programmed decree that gets more powerful but more fragile each turn. The Woodland Alliance is an insurgency, building sympathy and erupting into revolt. The Vagabond isn't even playing area control  -  they're playing an RPG inside someone else's wargame.
 
 This means you can't just understand your own faction. You need to understand *everyone's* faction well enough to know when they're becoming dangerous. The Marquise looks dominant early but often stalls. The Eyrie looks shaky but can score enormous bursts if their decree holds. The Alliance looks irrelevant until they suddenly control half the map through revolt.
 
-Root teaches you that area control isn't just about the map — it's about understanding **asymmetric power curves** and knowing when to intervene in someone else's game.
+Root teaches you that area control isn't just about the map  -  it's about understanding **asymmetric power curves** and knowing when to intervene in someone else's game.
 
 **What it teaches you:** Asymmetric evaluation. Policing the leader. Understanding that "who's winning" is the most important and most difficult question in the game.
 
@@ -130,8 +130,8 @@ Root teaches you that area control isn't just about the map — it's about under
 
 ## ⚫ Rung 7: [Twilight Imperium: Fourth Edition](https://boardgamegeek.com/boardgame/233078)
 **Weight:** 4.35/5
-**Players:** 3–6
-**Play time:** 240–480 min
+**Players:** 3-6
+**Play time:** 240-480 min
 **BGG Rating:** 8.56/10, Rank #7
 
 ![Twilight Imperium: Fourth Edition](images/twilight-imperium-4.jpg)
@@ -163,6 +163,6 @@ Everything from the previous six rungs comes together here. Spatial awareness fr
 | 🔴 6 | Root | 3.84 | Asymmetric evaluation, policing the leader |
 | ⚫ 7 | Twilight Imperium 4E | 4.35 | Everything, simultaneously, for 8 hours |
 
-Every game on this ladder is genuinely excellent. You could stop at any rung and have a fantastic area control experience. But if you've climbed to Rung 7 and come back wanting more — well, there's always [War of the Ring](https://boardgamegeek.com/boardgame/115746) waiting for you.
+Every game on this ladder is genuinely excellent. You could stop at any rung and have a fantastic area control experience. But if you've climbed to Rung 7 and come back wanting more  -  well, there's always [War of the Ring](https://boardgamegeek.com/boardgame/115746) waiting for you.
 
 *All stats sourced from [BoardGameGeek](https://boardgamegeek.com). Box art used with attribution to respective publishers.*
