@@ -1,201 +1,212 @@
 ---
 title: "Designer Spotlight: Vital Lacerda — The Architect of Beautiful Complexity"
-date: 2026-05-02T10:00:00+0100
+date: 2026-05-03T10:00:00+0100
 draft: false
 categories:
-  - "Features"
+  - "Board Games"
 tags:
   - "Designer Spotlight"
   - "Vital Lacerda"
+  - "Lisboa"
+  - "Kanban EV"
+  - "On Mars"
+  - "The Gallerist"
+  - "Vinhos"
+  - "Weather Machine"
   - "Heavy Games"
   - "Euro Games"
-  - "Eagle-Gryphon Games"
-  - "Lisboa"
-  - "On Mars"
-  - "Kanban EV"
-  - "The Gallerist"
-description: "Vital Lacerda designs board games the way Christopher Nolan makes films — dense, layered, and utterly rewarding if you're willing to do the work. Here's why the Portuguese architect-turned-designer is the undisputed king of heavy euros."
+description: "Vital Lacerda designs games that shouldn't work — sprawling, interconnected systems that somehow feel elegant once they click. From managing a Lisbon reconstruction to running a Mars colony, we explore the design philosophy of board gaming's most ambitious architect."
 ShowToc: true
 TocOpen: false
 cover:
-  image: "images/kanban-ev.jpg"
-  alt: "Kanban EV box art"
-  caption: "Image courtesy of Eagle-Gryphon Games / BoardGameGeek"
+  image: "images/lisboa.jpg"
+  alt: "Lisboa box art — Vital Lacerda, Eagle-Gryphon Games"
+  caption: "Box art via BoardGameGeek. Published by Eagle-Gryphon Games."
   relative: true
+images:
+  - "images/lisboa.jpg"
 ---
 
-There's a moment in every Vital Lacerda game — usually about 40 minutes in, halfway through someone's first teach — where a player's eyes go glassy. The mechanisms are piling up. The action spaces connect to the resource tracks which connect to the scoring conditions which connect to the timeline which connects back to the action spaces. It feels like too much.
+There's a specific moment in every Vital Lacerda game. You're twenty minutes into the teach, staring at a board covered in interlocking tracks, influence markets, and action spaces that seem to connect to everything else. Your brain is screaming that this is too much. And then, somewhere around turn three, something clicks. The systems aren't arbitrary — they're *architectural*. Every connection exists because the theme demands it. Every mechanism serves the story the game is telling.
 
-And then, sometime around turn three, something clicks. The interlocking gears suddenly make *sense*. You don't just see what you can do — you see *why* every mechanism exists, why it had to be that way, why removing any single piece would collapse the whole structure. That's the Lacerda moment. And once you've felt it, you'll chase it forever.
+That's the Lacerda experience. And there's nothing else quite like it in board gaming.
 
-## The Man Behind the Mechanisms
+## Who Is Vital Lacerda?
 
-Vital Lacerda is a Portuguese architect by training, and it shows. His games don't feel designed so much as *engineered* — every system load-bearing, every connection structural. Where most designers aim for elegance through simplicity, Lacerda finds elegance through *coherence*. His games are complex, yes, but they're never arbitrary. Every rule exists for a thematic reason.
+Vital Lacerda is a Portuguese game designer and graphic designer who has carved out one of the most distinctive niches in modern board gaming. Where many designers work across weight classes, Lacerda has committed entirely to the heavy euro — games that sit firmly above a BGG weight of 4.0 and demand genuine cognitive investment from their players.
 
-Since [Vinhos](https://boardgamegeek.com/boardgame/42052/vinhos) launched in 2010, Lacerda has built a catalogue that reads like a masterclass in heavy euro design. His partnership with Eagle-Gryphon Games and artist Ian O'Toole (from [The Gallerist](https://boardgamegeek.com/boardgame/125153/the-gallerist) onwards) has produced some of the most visually stunning and mechanically dense games in the hobby.
+What makes him unusual isn't just the complexity. Plenty of designers make complex games. It's the *coherence*. A Lacerda game is a simulation disguised as a euro. The mechanisms don't exist because they create interesting decisions (though they do) — they exist because that's how the real system works. Running a winery means managing vintages, weather, and expert critics. Rebuilding Lisbon after the 1755 earthquake means navigating the tension between royal decree, church influence, and noble ambition. These aren't pasted-on themes. They're the structural DNA of the design.
 
-He doesn't chase trends. He doesn't simplify for mass appeal. He builds the game the theme demands, and trusts players to meet him there.
+His long-running partnership with artist Ian O'Toole has also given his games a visual identity that's instantly recognisable — dense but readable boards, a distinctive colour palette, and iconography that somehow makes 200-component games feel navigable.
 
-## The Catalogue: A Tour Through Lacerda's World
+## The Games: A Catalogue of Ambition
 
-### Vinhos (2010) — Where It All Began
+### Vinhos Deluxe Edition (2016)
 
-![Vinhos box art](images/vinhos.jpg "Image courtesy of Eagle-Gryphon Games / BoardGameGeek")
+![Vinhos Deluxe Edition box art](images/vinhos-deluxe.jpg "Box art via BoardGameGeek. Published by Eagle-Gryphon Games.")
 
-| Stat | Value |
-|------|-------|
-| Players | 2–4 |
-| Play Time | 135 min |
-| BGG Rating | 7.46 |
-| Weight | 4.20 / 5 |
-| BGG Rank | #723 |
+| | |
+|---|---|
+| **BGG Rating** | 8.05 |
+| **Weight** | 3.99 / 5 |
+| **Players** | 1–4 |
+| **Play Time** | ~180 min |
+| **BGG Rank** | #155 |
 
-[Vinhos](https://boardgamegeek.com/boardgame/42052/vinhos) is Lacerda's debut, and it's a Portuguese wine-making game that wears its theme on its sleeve. You're managing vineyards, hiring enologists, ageing wines, and preparing for wine fairs — and every decision feeds into every other decision in ways that feel almost uncomfortably tight.
+[Vinhos Deluxe Edition on BGG](https://boardgamegeek.com/boardgame/175640/vinhos-deluxe-edition)
 
-The 2016 Deluxe Edition streamlined some of the original's rougher edges, but this remains a game that demands respect. It's not where most people *start* with Lacerda, but it's where the philosophy was born: model the real system, then let players find their path through it.
+Lacerda's earliest major design, and the one that established his template. You're running a Portuguese winery — buying vineyards, hiring enologists, aging wines, and presenting them at fairs for critical evaluation. The Deluxe Edition refined the original 2010 release with a streamlined action display and the option to play either the original "reserve" rules or the new edition.
 
-### The Gallerist (2015) — The Breakout
+What makes Vinhos fascinating as a starting point is that it's one of the lightest Lacerda games at weight 3.99 (only Escape Plan is lighter at 3.68) — and it's still heavier than most games in anyone's collection. It's the gateway drug where the gateway is still a 3-hour commitment. But for Lacerda, this is where the design language was born: thematic integration above all, player interaction through shared markets rather than direct conflict, and the sense that you're operating within a real economic system.
 
-![The Gallerist box art](images/the-gallerist.png "Image courtesy of Eagle-Gryphon Games / BoardGameGeek")
+### The Gallerist (2015)
 
-| Stat | Value |
-|------|-------|
-| Players | 1–4 |
-| Play Time | 150 min |
-| BGG Rating | 8.00 |
-| Weight | 4.21 / 5 |
-| BGG Rank | #82 |
+![The Gallerist box art](images/the-gallerist.jpg "Box art via BoardGameGeek. Published by Eagle-Gryphon Games.")
 
-[The Gallerist](https://boardgamegeek.com/boardgame/125153/the-gallerist) is where Lacerda found his stride and, crucially, where Ian O'Toole entered the picture. You're running an art gallery — discovering artists, buying and displaying works, attracting visitors, managing reputation. The theme is unusual and the execution is gorgeous.
+| | |
+|---|---|
+| **BGG Rating** | 8.00 |
+| **Weight** | 4.21 / 5 |
+| **Players** | 1–4 |
+| **Play Time** | ~150 min |
+| **BGG Rank** | #82 |
 
-This is also where Lacerda's signature "kick-out" mechanism debuted. When another player moves to the space you're occupying, you get a bonus executive action. It's a brilliant piece of interaction design: you're always watching what everyone else is doing, because their moves *give* you things. Passive observation becomes active strategy.
+[The Gallerist on BGG](https://boardgamegeek.com/boardgame/125153/the-gallerist)
 
-### Lisboa (2017) — The Masterpiece
+The art world as a euro game. You discover artists, promote their work, manage a gallery, attract visitors and collectors, and manipulate the international art market. The Gallerist is often cited as the best entry point into Lacerda's catalogue because its theme is immediately intuitive — everyone understands "buy low, sell high" even when the mechanism is "discover artist early, promote them into fame, sell their work when prices peak."
 
-![Lisboa box art](images/lisboa.jpg "Image courtesy of Eagle-Gryphon Games / BoardGameGeek")
+The genius here is the *kickout action*. When you move to a location another player occupies, they get a bonus action. This creates a constant tension between doing what you want and gifting opponents opportunities. It's player interaction without aggression — you're not attacking anyone, but you're always thinking about what you're giving away.
 
-| Stat | Value |
-|------|-------|
-| Players | 1–4 |
-| Play Time | 120 min |
-| BGG Rating | 8.17 |
-| Weight | 4.57 / 5 |
-| BGG Rank | #69 |
+### Lisboa (2017)
 
-[Lisboa](https://boardgamegeek.com/boardgame/161533/lisboa) is the game many consider Lacerda's finest work. Set in the aftermath of the 1755 Lisbon earthquake, you're rebuilding a city from ruins — constructing buildings, gaining the favour of nobles, trading goods, and managing your influence with the church and the crown.
+![Lisboa box art](images/lisboa.jpg "Box art via BoardGameGeek. Published by Eagle-Gryphon Games.")
 
-The multi-use card system is extraordinary. Every card can be played in multiple ways depending on where and how you use it, and the cascading consequences of each play ripple across the entire board state. At weight 4.57, this is a *commitment* — but it's a commitment that pays dividends on every subsequent play. The way the theme of reconstruction permeates every mechanism is Lacerda at his most emotionally resonant.
+| | |
+|---|---|
+| **BGG Rating** | 8.17 |
+| **Weight** | 4.57 / 5 |
+| **Players** | 1–4 |
+| **Play Time** | ~120 min |
+| **BGG Rank** | #69 |
 
-### CO₂: Second Chance (2018) — The Cooperative Detour
+[Lisboa on BGG](https://boardgamegeek.com/boardgame/161533/lisboa)
 
-![CO₂: Second Chance box art](images/co2-second-chance.jpg "Image courtesy of Eagle-Gryphon Games / BoardGameGeek")
+Many consider this Lacerda's masterpiece. Set in the aftermath of the 1755 Lisbon earthquake — one of the deadliest natural disasters in European history — Lisboa casts players as nobles working to rebuild the city. You'll petition the King, the Prime Minister (the Marquis of Pombal), and the Cardinal, each offering different resources and powers. Cards can be played to the treasury (for immediate resources), to your portfolio (for end-game scoring), or to nobles (triggering their special abilities).
 
-| Stat | Value |
-|------|-------|
-| Players | 1–4 |
-| Play Time | 120 min |
-| BGG Rating | 7.47 |
-| Weight | 4.09 / 5 |
-| BGG Rank | #942 |
+At weight 4.57, this is uncompromisingly heavy. But it's also where Lacerda's thematic integration reaches its peak. The rubble mechanics, the political tension between church and state, the physical reconstruction of city blocks — it all feels like you're making historically meaningful decisions rather than optimising a point salad. The dual-use card system is also one of the most elegant mechanisms in heavy gaming: every card presents a genuine dilemma, and there's never an obvious play.
 
-[CO₂: Second Chance](https://boardgamegeek.com/boardgame/214887/co2-second-chance) is the outlier — a semi-cooperative game about building sustainable energy infrastructure before climate change renders the planet uninhabitable. You're competing for points, but if the group fails to control pollution, everyone loses.
+### CO₂: Second Chance (2018)
 
-It's the "lightest" Lacerda at weight 4.09 (which is still heavier than 95% of games in existence), and the cooperative tension adds a fascinating layer. You *want* to free-ride on others' green investments, but you *need* to contribute or the whole system collapses. The parallel to real climate politics is painfully on the nose.
+![CO₂: Second Chance box art](images/co2-second-chance.jpg "Box art via BoardGameGeek. Published by Eagle-Gryphon Games.")
 
-### Escape Plan (2019) — The Heist Movie
+| | |
+|---|---|
+| **BGG Rating** | 7.47 |
+| **Weight** | 4.09 / 5 |
+| **Players** | 1–4 |
+| **Play Time** | ~120 min |
+| **BGG Rank** | #942 |
 
-![Escape Plan box art](images/escape-plan.jpg "Image courtesy of Eagle-Gryphon Games / BoardGameGeek")
+[CO₂: Second Chance on BGG](https://boardgamegeek.com/boardgame/214887/co2-second-chance)
 
-| Stat | Value |
-|------|-------|
-| Players | 1–5 |
-| Play Time | 120 min |
-| BGG Rating | 7.48 |
-| Weight | 3.68 / 5 |
-| BGG Rank | #632 |
+The most *prescient* Lacerda game. Originally released in 2012, CO₂ was redesigned as Second Chance with a cooperative/semi-cooperative mode. Players work as energy companies transitioning from fossil fuels to renewable energy, and if global pollution rises too high, everyone loses. It's Lacerda's most explicitly political game, and one of the few heavy euros with a genuine cooperative loss condition.
 
-[Escape Plan](https://boardgamegeek.com/boardgame/142379/escape-plan) is Lacerda's most accessible game by the numbers — weight 3.68, which is practically a gateway by his standards. You're a gang of thieves trying to flee the city after a heist, gathering your hidden loot caches while avoiding the police.
+It's also his lowest-rated major release (7.47 on BGG), and that tells an interesting story. The semi-cooperative tension — you need to collectively solve the pollution crisis while individually scoring the most points — can feel awkward. Some players find the cooperative loss condition punishing and the competitive scoring contradictory. But for those who click with it, CO₂ offers something no other Lacerda game does: genuine moral weight. When you build a coal plant because it's more profitable, you *feel* it.
 
-The asymmetric information is what makes this sing. Each player knows where *their* loot is hidden but not anyone else's, creating a brilliant fog of deduction. It's also the most directly interactive Lacerda game — you're actively blocking escape routes, manipulating police movement, and occasionally throwing your fellow criminals under the bus.
+### Escape Plan (2019)
 
-### On Mars (2020) — The Summit
+![Escape Plan box art](images/escape-plan.jpg "Box art via BoardGameGeek. Published by Eagle-Gryphon Games.")
 
-![On Mars box art](images/on-mars.jpg "Image courtesy of Eagle-Gryphon Games / BoardGameGeek")
+| | |
+|---|---|
+| **BGG Rating** | 7.48 |
+| **Weight** | 3.68 / 5 |
+| **Players** | 1–5 |
+| **Play Time** | ~120 min |
+| **BGG Rank** | #632 |
 
-| Stat | Value |
-|------|-------|
-| Players | 1–4 |
-| Play Time | 150 min |
-| BGG Rating | 8.16 |
-| Weight | 4.63 / 5 |
-| BGG Rank | #58 |
+[Escape Plan on BGG](https://boardgamegeek.com/boardgame/142379/escape-plan)
 
-[On Mars](https://boardgamegeek.com/boardgame/184267/on-mars) is the heaviest game in Lacerda's catalogue (weight 4.63) and possibly the most ambitious board game ever published. You're building a colony on Mars — and the game models *everything*. Orbital station logistics. Surface construction. Life support systems. Scientific research. Mining. Power generation. Rover deployment.
+The outlier. Escape Plan is a heist getaway game — you've already robbed the bank, and now you need to escape the city with your loot while avoiding an escalating police presence. At weight 3.68, it's Lacerda's lightest game by a significant margin, and it plays up to 5 players.
 
-The orbit-to-surface shuttle mechanic is inspired: you physically switch between two game boards (the orbital station and the planet surface), and the actions available to you change completely depending on where you are. It's dizzying on first play and mesmerising on the third.
+It's also his most *spatial* game. Movement through the city matters in a way it doesn't in his other designs, and the asymmetric information about escape routes creates a different kind of tension. Critics note it doesn't quite reach the interconnected brilliance of his heavier designs, and the BGG rating (7.48) reflects that. But as a change of pace from the Lacerda catalogue, it's a fascinating design — proof that his systems-thinking approach works even when the theme is pulpy rather than historical.
 
-### Kanban EV (2020) — The Crowd Favourite
+### Kanban EV (2020)
 
-![Kanban EV box art](images/kanban-ev.jpg "Image courtesy of Eagle-Gryphon Games / BoardGameGeek")
+![Kanban EV box art](images/kanban-ev.jpg "Box art via BoardGameGeek. Published by Eagle-Gryphon Games.")
 
-| Stat | Value |
-|------|-------|
-| Players | 1–4 |
-| Play Time | 180 min |
-| BGG Rating | 8.38 |
-| Weight | 4.29 / 5 |
-| BGG Rank | #45 |
+| | |
+|---|---|
+| **BGG Rating** | 8.38 |
+| **Weight** | 4.29 / 5 |
+| **Players** | 1–4 |
+| **Play Time** | ~180 min |
+| **BGG Rank** | #45 |
 
-[Kanban EV](https://boardgamegeek.com/boardgame/284378/kanban-ev) is Lacerda's highest-rated game on BGG (8.38) and, somewhat surprisingly, a game about managing an electric vehicle factory. You're working on the production floor — designing cars, sourcing parts, testing vehicles, and presenting your work to Sandra, the factory manager who evaluates your performance.
+[Kanban EV on BGG](https://boardgamegeek.com/boardgame/284378/kanban-ev)
 
-Sandra is the game's masterstroke. She's an automated NPC who moves around the factory, and when she arrives at your department, you'd better have something to show for yourself. It's the best implementation of "boss pressure" in any board game — a constant, low-grade anxiety that drives every decision. The game models lean manufacturing (the Toyota Production System, specifically) with an obsessive attention to detail that would make any operations manager weep with recognition.
+A reimplementation of the 2014 original, now set in an electric vehicle factory. Kanban EV is arguably Lacerda's most *game-y* design — the factory management theme is perfectly suited to the interlocking department system (design, logistics, assembly, R&D), and the Sandra boss character who wanders the factory evaluating your work adds a layer of strategic timing that's uniquely engaging.
 
-### Weather Machine (2022) — The Latest Chapter
+At rank #45 and a rating of 8.38, this is Lacerda's highest-ranked game on BGG. There's a reason: it's the design where theme and mechanism feel most naturally unified. Every action makes *intuitive* sense — of course you need to get parts from logistics before assembly can build the car. Of course R&D upgrades improve future production. The factory metaphor makes the system learnable in a way that "rebuild 18th-century Lisbon" simply doesn't, and that accessibility-within-complexity is why it resonates so broadly.
 
-![Weather Machine box art](images/weather-machine.jpg "Image courtesy of Eagle-Gryphon Games / BoardGameGeek")
+### On Mars (2020)
 
-| Stat | Value |
-|------|-------|
-| Players | 2–4 |
-| Play Time | 150 min |
-| BGG Rating | 7.69 |
-| Weight | 4.56 / 5 |
-| BGG Rank | #710 |
+![On Mars box art](images/on-mars.jpg "Box art via BoardGameGeek. Published by Eagle-Gryphon Games.")
 
-[Weather Machine](https://boardgamegeek.com/boardgame/237179/weather-machine) is Lacerda's most recent major release, and it tackles — of all things — weather control technology. You're a scientist working to fix a malfunctioning weather machine, conducting research, deploying bots, and publishing papers.
+| | |
+|---|---|
+| **BGG Rating** | 8.16 |
+| **Weight** | 4.63 / 5 |
+| **Players** | 1–4 |
+| **Play Time** | ~150 min |
+| **BGG Rank** | #58 |
 
-At weight 4.56, it's right up there with Lisboa and On Mars in terms of complexity, and it features some of Lacerda's most innovative mechanical ideas. The government and initiative tracks create a fascinating meta-game above the main action, and the bot deployment system adds a spatial puzzle that echoes On Mars's rover mechanics. It divided opinion more than his other recent titles — some find it a touch too abstract in its theming — but the mechanical craft is undeniable.
+[On Mars on BGG](https://boardgamegeek.com/boardgame/184267/on-mars)
 
-## The Lacerda Signature
+Peak Lacerda complexity. At weight 4.63, On Mars is one of the heaviest games in BGG's top 100. You're building a Mars colony, splitting your time between the orbital station (where supplies arrive) and the planet surface (where construction happens). The shuttle between orbit and surface is the central tempo mechanism — you can only travel during certain phases, so planning your transitions is the game's fundamental puzzle.
 
-What makes a Lacerda game a *Lacerda game*? After playing most of his catalogue, a few signatures emerge:
+On Mars is the Lacerda game that generates the strongest reactions. Its advocates consider it a triumph of systems design — every decision ripples through the colony in satisfying ways. Its detractors find it overcomplicated, with too many subsystems competing for attention. Both are right. This is a game that rewards deep investment but punishes casual engagement. If you're going to play On Mars, you're committing to *On Mars* as a hobby.
 
-**Thematic integration over abstraction.** Lacerda doesn't start with mechanisms and paste a theme on top. He starts with a real-world system (wine production, car manufacturing, Mars colonisation) and models it until the mechanisms *are* the theme. You don't learn Kanban EV's rules — you learn how a factory works.
+### Weather Machine (2022)
 
-**Interconnected systems.** Nothing exists in isolation. Every subsystem feeds into every other subsystem, creating emergent complexity from individually comprehensible parts. The weight comes not from any single rule being complicated, but from the sheer number of connections between simple rules.
+![Weather Machine box art](images/weather-machine.jpg "Box art via BoardGameGeek. Published by Eagle-Gryphon Games.")
 
-**The teach is the barrier.** Ask anyone who's bounced off a Lacerda game what happened, and they'll almost always say the same thing: the teach. These games take 30-45 minutes to explain, and no amount of clever graphic design (though Ian O'Toole certainly tries) can change the fact that there's a lot to internalise. But — and this is crucial — the games themselves are *not* that hard to play once you understand the structure. The decision space is wide but the decision *process* is usually intuitive.
+| | |
+|---|---|
+| **BGG Rating** | 7.69 |
+| **Weight** | 4.56 / 5 |
+| **Players** | 2–4 |
+| **Play Time** | ~150 min |
+| **BGG Rank** | #710 |
 
-**Player interaction through shared spaces.** Lacerda's games aren't multiplayer solitaire. The kick-out mechanism, the shared market dynamics, the limited action spaces — other players' moves constantly reshape your plans. It's indirect interaction, but it's *constant*.
+[Weather Machine on BGG](https://boardgamegeek.com/boardgame/237179/weather-machine)
+
+Lacerda's most recent major release, and perhaps his most divisive. You're scientists working with (and potentially against) a professor whose weather-controlling machine has gone haywire. The theme is more science-fiction than Lacerda's usual historical grounding, and the mechanisms — chemical formulas, weather tokens, government funding — are correspondingly more abstract.
+
+At weight 4.56 and a BGG rank of #710, Weather Machine hasn't achieved the critical consensus of Lisboa or Kanban EV. Some players find the theme too disconnected from the mechanics, which is a rare criticism for a Lacerda game. Others praise the research-and-publication system as one of his most innovative subsystems. It's the game that suggests Lacerda may be pushing against the edges of what thematic integration can do in the heavy euro space — and whether that's exciting or concerning depends entirely on what you want from his designs.
+
+## The Lacerda Design Philosophy
+
+Across eight major releases, several consistent principles emerge:
+
+**Thematic integration isn't decoration — it's architecture.** Every Lacerda game starts from a real system (wine production, art markets, urban reconstruction, factory management) and builds mechanisms that model how that system actually works. This is why his games are heavy: reality is complex, and he refuses to simplify it into abstraction.
+
+**Player interaction through shared systems, not direct conflict.** You'll rarely attack another player in a Lacerda game. Instead, you compete through shared markets, action spaces, and timing. The Gallerist's kickout mechanism, Kanban EV's Sandra evaluations, Lisboa's noble petitions — these create tension without aggression. It's the European design tradition taken to its logical extreme.
+
+**Every game teaches you a system.** There's a genuine educational quality to Lacerda's designs. After playing Vinhos, you understand something about winemaking. After Lisboa, you know about the 1755 earthquake and the Marquis of Pombal's reforms. After Kanban EV, lean manufacturing principles feel intuitive. This isn't accidental — it's core to why the games feel *meaningful* rather than merely clever.
+
+**Dual-use decisions create genuine dilemmas.** Cards in Lisboa can be played three ways. Actions in The Gallerist come with kickout costs. Every choice in a Lacerda game has multiple valid paths, and the "right" answer depends on board state, opponent timing, and long-term strategy. There's very little autopilot.
 
 ## Where to Start
 
-If you've never played a Lacerda game, don't start with On Mars. That's how you end up never playing a second one.
+If you've never played a Lacerda game, **The Gallerist** or **Kanban EV** are the consensus entry points. The Gallerist has the most intuitive theme and the smoothest teach. Kanban EV has the most natural connection between mechanism and setting — everything just *makes sense* when it's framed as factory operations.
 
-**Escape Plan** (weight 3.68) is the lightest entry point, with a theme that immediately clicks and an interactive structure that keeps everyone engaged. **The Gallerist** (weight 4.21) is the classic recommendation for a reason — it's heavy but remarkably intuitive once the structure clicks.
+If you're already a heavy euro player and want to go straight to the deep end, **Lisboa** is the masterpiece — dense, rewarding, and thematically extraordinary.
 
-If you want the best game in the catalogue, the community consensus points to **Kanban EV** (BGG rank #45, rating 8.38). If you want the most *Lacerda* Lacerda game — the one that best represents his design philosophy — **Lisboa** is the answer.
-
-And if you're already deep in the hobby, playing On Mars at weight 4.63 is something every serious gamer should experience at least once. Whether you love it or hate it, you won't forget it.
+And if you need a solo recommendation, **On Mars** has one of the strongest solo modes in the heavy euro space, with a well-designed automa that captures the colony-building tension without feeling like multiplayer solitaire.
 
 ## The Bottom Line
 
-Vital Lacerda isn't for everyone, and he'd probably be the first to admit it. His games demand time (2-3 hours minimum), table space (bring a big table), and cognitive investment (bring a rested brain). They're the board game equivalent of a three-hour prestige drama — if you want a quick dopamine hit, look elsewhere.
+Vital Lacerda makes games for people who want to *learn* a game, not just play one. His designs reward investment — not just of time at the table, but of cognitive engagement with the systems he's modelling. They're not for everyone, and that's precisely the point. In a hobby that increasingly optimises for accessibility and broad appeal, Lacerda's commitment to ambitious, uncompromising design is something worth celebrating.
 
-But if you want to feel like you *mastered* something? If you want a game that rewards your fifth play more than your first? If you want to sit at the table and feel the satisfaction of a perfectly executed plan rippling through six interconnected systems?
-
-Lacerda's your designer. Welcome to the deep end.
-
----
-
-*Have a favourite Lacerda game? Think we got the ranking wrong? Come argue with us on [Twitter](https://twitter.com/TheDiceDrop).*
+The man builds cathedrals out of cardboard. Not everyone wants to live in a cathedral. But those who do won't find a better architect.
