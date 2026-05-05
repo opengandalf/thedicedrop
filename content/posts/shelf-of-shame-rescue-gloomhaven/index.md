@@ -1,135 +1,117 @@
 ---
 title: "Shelf of Shame Rescue: Gloomhaven"
-date: 2026-04-18T10:05:00+0100
+date: 2026-05-05
 draft: false
-categories:
-  - "Board Games"
-tags:
-  - "Shelf of Shame Rescue"
-  - "Gloomhaven"
-  - "Dungeon Crawler"
-  - "Campaign Game"
-  - "Cephalofair Games"
-description: "Gloomhaven is the most owned game in BGG's top 10  -  and probably the most unplayed. Over 104,000 copies sitting on shelves. Here's your concrete rescue plan to actually get it to the table tonight."
-ShowToc: true
-TocOpen: false
+type: shelf-of-shame-rescue
+tags: ["shelf-of-shame-rescue", "gloomhaven", "campaign", "dungeon-crawler", "cooperative"]
+description: "The 10kg box staring at you from the shelf. Here's why you haven't played it — and a concrete plan to finally get it to the table tonight."
 cover:
-  image: "images/gloomhaven.jpg"
-  alt: "Gloomhaven box art by Cephalofair Games"
-  caption: "Box art via BoardGameGeek. Published by Cephalofair Games."
-  relative: true
-images:
-  - "images/gloomhaven.jpg"
+  image: images/gloomhaven.jpg
+  alt: "Gloomhaven board game box cover"
+  caption: "Image: Cephalofair Games via BoardGameGeek"
 ---
 
-Let's address the enormous box in the room.
+There it is. The biggest, heaviest box on your shelf. You bought it because it was the #1 game on BoardGameGeek for years. You unboxed it, maybe punched a few tokens, marvelled at the sheer *volume* of cardboard — and then put the lid back on.
 
-[Gloomhaven](https://boardgamegeek.com/boardgame/174430) is ranked **#4 on BGG** with an 8.54 average across nearly 67,000 ratings. It has a weight of **3.92**, plays 1-4 (best with 3), and runs 60-120 minutes per scenario. It was designed by Isaac Childres and published by Cephalofair Games in 2017. Over **104,000 people own it**.
+You're not alone. [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven) is perhaps the single most commonly owned-but-unplayed game in the hobby. It's the poster child for shelf-of-shame lists, YouTube confessionals, and Reddit threads titled "convince me to finally play Gloomhaven."
 
-It's also the single game I see mentioned most often in "what's on your shelf of shame?" threads. Not because it's bad  -  it wouldn't be #4 if it were  -  but because everything about it conspires to keep it in the box. The weight. The setup. The sheer *volume* of cardboard. The feeling that you need a dedicated gaming group, a permanent table, and a PhD in logistics to get started.
+Let's diagnose why, and then fix it.
 
-You bought it because the hype was inescapable. You haven't played it because opening the box feels like unpacking a filing cabinet. Let's fix that.
+## The Vital Stats
 
-## The Real Barriers (Not What You Think)
+- **BGG Rating:** 8.54 / 10
+- **BGG Rank:** #4 Overall
+- **Weight:** 3.92 / 5
+- **Players:** 1–4 (best with 3)
+- **Play Time:** 60–120 minutes per scenario
+- **Designer:** Isaac Childres
+- **Publisher:** Cephalofair Games
 
-### Barrier 1: The Box Is Terrifying
+## Why It's Still in the Box
 
-Gloomhaven weighs about 10 kilograms. When you open it, you're confronted with hundreds of cardboard tiles, nearly 1,500 cards, standees, tokens, overlay tiles, and a scenario book thicker than most novels. The natural reaction is to close the lid and play something else.
+After reading hundreds of forum posts, Reddit threads, and shelf-of-shame confessionals, the barriers boil down to three things — and none of them are "the game is too complex."
 
-**The truth:** You don't need most of that stuff for your first game. Scenario 1 uses a handful of map tiles, two rooms' worth of monsters, and your starting characters. About 90% of what's in the box can stay in the box for weeks.
+### 1. The Setup Wall
 
-### Barrier 2: The Rulebook Is Dense
+This is the big one. Opening the box for the first time is overwhelming — hundreds of map tiles (double-sided!), monster standees, character envelopes, modifier decks, scenario books, stickers, and more. Just *finding* the components for your first scenario can take 30+ minutes if you're not organised.
 
-The learn-to-play guide is 52 pages. People read "52 pages" and their eyes glaze over. But here's what the BGG forums consistently point out: the actual *rules* of Gloomhaven are not that complicated. Each turn you play two cards, use the top of one and the bottom of the other. Move, attack, heal. That's the core loop.
+As one writer put it: "You dig out the box. After picking a scenario, you have to find the big cardboard pieces for rooms I1b, G1B, and L1B. There are dozens of room tiles to flip through. And they're double-sided, so if you missed one you'll need to slow down and flip through their opposite sides, more slowly this time."
 
-The rulebook is long because it's a *reference manual* covering edge cases for a 95-scenario campaign. You don't need to memorise it. You need pages 1-15 and a willingness to look things up as they come.
+The setup time isn't the game's complexity — it's a logistics problem. And logistics problems have solutions.
 
-### Barrier 3: "I Need a Committed Group"
+### 2. The Campaign Commitment Fear
 
-This is the barrier that kills the most campaigns. People assume they need four players who can show up every fortnight for eighteen months. That's the dream, but it's not the requirement.
+Gloomhaven is marketed as a 100+ hour campaign. People hear that and think "I need a dedicated group who'll commit to weekly sessions for a year." That sounds like signing up for a second job.
 
-Gloomhaven works with any player count from 1 to 4, and the BGG poll backs this up: **Best with 3** (809 votes), but Recommended at every count from 1 to 4. The scenario difficulty scales automatically. You can play one session with two players and the next with four. Characters don't have to match between sessions.
+Here's the truth: **you don't need that.** Each scenario is self-contained (60-120 minutes). The campaign is just a sequence of scenarios with a connecting story. You can play one scenario a month and still enjoy it. There's no timer. There's no penalty for gaps between sessions.
 
-And here's the thing the community figured out years ago: **Gloomhaven is secretly an excellent solo game.** Run two characters yourself. It eliminates scheduling entirely. The BGG poll shows 860 people voted it Recommended or Best at 1 player.
+### 3. The Rulebook
 
-### Barrier 4: Setup and Teardown
-
-This is the legitimate one. Setting up a Gloomhaven scenario from scratch  -  finding the right map tiles, sorting out the monster cards, placing overlay tokens  -  can take 30-45 minutes if you're disorganised. That's a real problem when your gaming window is two hours.
-
-But this is a solved problem. More on that below.
+The Gloomhaven rulebook is... not great. It's a reference manual disguised as a learning tool. Key rules are buried in paragraphs. Edge cases sit next to fundamental mechanics. People read 10 pages, get confused about monster AI focus rules, and close the book.
 
 ## The Rescue Plan
 
-### Step 1: Organise Before You Play (One Evening, No Gaming Required)
+Here's how to get Gloomhaven to your table — realistically — within the next 7 days.
 
-Don't try to learn the game and play it on the same night. Spend one evening  -  put on a podcast, pour a drink  -  and just **sort the box**. Here's the minimum viable organisation:
+### Step 1: Organise the Box (30 minutes, once)
 
-- **Bag the monster standees by type.** Small zip bags, one per monster. Label them with a marker or sticky note. This alone saves 15 minutes per setup.
-- **Separate the map tiles.** They have letters. Keep them in alphabetical order. A rubber band around each stack of ~5 tiles is enough.
-- **Put the character boxes in order.** You only need two to start. Pick any two from the six starting classes: Brute, Tinkerer, Spellweaver, Scoundrel, Mindthief, or Cragheart.
-- **Ignore the sealed envelopes, the town records, and the party sheet for now.** That's campaign infrastructure. You'll need it eventually, but not today.
+You don't need a £50 insert or a tackle box system. You need:
+- **Sandwich bags + a marker.** Bag monster standees by type (label the bags). Bag map tiles by letter (A tiles, B tiles, etc.).
+- **Rubber bands** for the various card decks.
+- That's it. This alone cuts setup time from 30+ minutes to under 10.
 
-If you want to go further, a cheap tackle box from a hardware store works brilliantly. The Plano 3700 series is a community favourite. Total cost: about £8. But even zip bags are enough.
+### Step 2: Use the Gloomhaven Helper App
 
-### Step 2: Watch One Video, Not Five
+This is the single biggest quality-of-life improvement. The [Gloomhaven Helper](http://esotericsoftware.com/gloomhaven-helper) app (available on all platforms) handles monster AI cards, initiative tracking, hit points, conditions, and combat modifiers. It removes roughly *half* the physical components from the table.
 
-Don't fall into the "I need to watch every tutorial" trap. Watch **one**. The community consensus on BGG and r/boardgames consistently points to the same few: Gaming Rules' tutorial or JonGetsGames' playthrough. Pick one, watch it at 1.5x, and accept that you'll get some rules wrong on your first play.
+As one player described it: "It dramatically improved the playability of Gloomhaven. It is so much more frequently hitting the table than it otherwise would have if I had to bother with all these elements."
 
-That's fine. Everyone does. The first scenario is deliberately gentle  -  it's a straight-up dungeon brawl with low-complexity enemies. It exists to teach you the card system, not to challenge you.
+### Step 3: Watch a Single Play-Through Video (Not a Review)
 
-### Step 3: Your First Scenario Is Tonight
+Don't re-read the rulebook. Watch someone play Scenario 1. You'll understand the card system, initiative, and monster movement in 20 minutes of observation better than 2 hours of reading. Search "Gloomhaven Scenario 1 playthrough" — there are dozens.
 
-Here's your setup checklist for Scenario 1 (Black Barrow):
+### Step 4: Start Solo with Two Characters
 
-1. **Map tiles:** Pull tiles G1b and I1b. Two tiles total. That's your entire dungeon.
-2. **Monsters:** Living Bones and Bandit Guards. Two monster types. Grab their standees, stat sheets, and ability cards.
-3. **Characters:** Pick two starting characters. Read their character sheets. Separate their ability cards  -  you'll use a subset of them (the ones without the X symbol work at level 1).
-4. **Attack modifier decks:** Each player gets a base deck. They're pre-sorted in the box.
-5. **Element board, round tracker, damage tokens.** Done.
+Don't wait for your group. Don't coordinate schedules. Sit down with two characters (Brute + Scoundrel is a classic combo) and play Scenario 1 on Easy difficulty. You'll learn the rules by doing, and when you *do* bring friends in, you'll be the one teaching — confidently.
 
-That's it. Total setup time with even basic organisation: **15 minutes.** The first scenario plays in about 45-60 minutes with two characters. You can be done, packed up, and back on the sofa in under 90 minutes from opening the box.
+Key beginner tips from veteran players:
+- **Play on Easy first.** The game is notoriously punishing for new players. There's no shame in lowering the difficulty.
+- **Don't burn Lost cards early.** You can always use a card for a basic Move 2 or Attack 2 instead of its special action.
+- **Initiative dancing** is the core tactic: go late one round, then early the next, effectively acting twice in a row.
+- **You don't have to loot everything.** The objective is to complete the scenario, not hoover up every gold coin.
 
-### Step 4: Don't Start the Campaign. Play Scenario 1 Twice.
+### Step 5: The "Just One Scenario" Rule
 
-Counter-intuitive advice, but this is what the BGG community recommends more than anything else: play the first scenario twice before moving on. The first play, you're learning mechanics  -  when to short rest vs long rest, how the card loss system creates a timer, how initiative order works. The second play, you're actually *playing the game*. The difference is night and day.
+After your first game, you'll know if this is for you. If it clicks, adopt the "just one scenario" rule — whenever you have 90 minutes free, set up and play one scenario. No campaign pressure. No scheduling nightmares. Just... one more dungeon.
 
-After two plays of Scenario 1, the card system will click. You'll understand why losing a card permanently is such a big deal. You'll start seeing the puzzle: how do I get maximum value out of each card pair before I exhaust? That puzzle is the entire game, and it's why Gloomhaven is #4.
+## The Nuclear Option: Start with Jaws of the Lion Instead
 
-## The Nuclear Option: Jaws of the Lion
+![Gloomhaven: Jaws of the Lion](images/gloomhaven-jaws-of-the-lion.jpg)
+*Image: Cephalofair Games via BoardGameGeek*
 
-![Gloomhaven: Jaws of the Lion box art](images/jaws-of-the-lion.jpg "Gloomhaven: Jaws of the Lion  -  Box art via BoardGameGeek. Published by Cephalofair Games.")
+If the big box still feels too daunting, [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-of-the-lion) (BGG Rating: 8.36, Weight: 3.64, Rank #12) was literally designed to solve this problem. It features:
 
-If all of the above still feels like too much, Cephalofair built the perfect on-ramp.
+- A **learn-as-you-play tutorial** across the first 5 scenarios (no rulebook reading required)
+- A **scenario book with built-in maps** (no map tile setup at all)
+- A shorter campaign (~25 scenarios vs 95+)
+- Full compatibility with the big box if you want to graduate later
 
-[Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457) is ranked **#12 on BGG** with an 8.36 average, a weight of **3.64**, and over 88,000 copies owned. It's a standalone game that uses the same core system but eliminates every friction point:
-
-- **No map tiles.** You play directly on the scenario book. Open to the right page and you're set up.
-- **Five tutorial scenarios** that teach you rules incrementally instead of dumping a 52-page rulebook on you.
-- **Four characters** instead of six, all well-balanced for new players.
-- **25 scenarios** instead of 95  -  a complete campaign that takes about 20 hours instead of 150.
-
-Jaws of the Lion is **best with 2 players** (403 Best votes) and setup time is literally "open the book, grab your cards." If regular Gloomhaven feels like committing to a marathon, JotL is a half-marathon with better signposting.
-
-And here's the kicker: the JotL characters are fully compatible with the original Gloomhaven. If JotL hooks you, you can port your characters straight into the bigger campaign.
+Jaws of the Lion is the on-ramp that Gloomhaven should have had. Many players report going through the entire Jaws campaign and then diving into the big box with confidence.
 
 ## The Tonight Test
 
-Can you realistically play Gloomhaven tonight?
+**Can you realistically play Gloomhaven tonight?**
 
-**If your box is still shrink-wrapped:** No. Spend tonight sorting and organising. Play tomorrow.
+If you've never opened the box: **No — but you can in 3 days.** Spend 30 minutes tonight bagging and organising components. Tomorrow, download Gloomhaven Helper and watch a Scenario 1 playthrough. Day three, play.
 
-**If your box is opened but unsorted:** Give yourself 45 minutes of sorting (just bag the monsters and find tiles G1b and I1b). Then yes  -  Scenario 1, two characters, solo or with one friend. You'll be playing within the hour.
+If you've opened and punched but never played: **Yes.** Bag the monsters, download the app, set up Scenario 1 with two characters on Easy. You'll be playing within 45 minutes.
 
-**If you have Jaws of the Lion:** Absolutely yes. Open the book to Scenario 1. Grab two characters. You're playing in 10 minutes.
-
-**If you already played once and bounced off:** Play Scenario 1 again with different characters. The Mindthief and Spellweaver combo is a community favourite for making the card system sing. Give it one more shot with those two.
-
-## Why It's Worth the Effort
-
-The people who push through the setup barrier and play 5-10 scenarios of Gloomhaven tend to become evangelists. There's a reason it sat at #1 on BGG for years and still holds #4 with nearly 67,000 ratings. The card-driven combat system  -  where every pair of cards is a genuine decision, where your hand slowly shrinks as a built-in timer, where you're simultaneously managing initiative, positioning, and resource depletion  -  is one of the best tactical puzzle systems ever designed for a board game.
-
-You already own it. The hard part was the credit card. The easy part is putting standees in bags. Do that tonight, play tomorrow, and find out what 104,000 people bought and what the best of them already know: the game inside that terrifying box is worth every kilogram.
+If you own Jaws of the Lion: **Absolutely yes.** Open the box. Open the scenario book to page 1. Start reading. The game teaches itself as you play. You'll be mid-scenario within 15 minutes.
 
 ---
 
-*Data sourced from [BoardGameGeek](https://boardgamegeek.com/boardgame/174430). Gloomhaven is designed by Isaac Childres and published by Cephalofair Games.*
+The dirty secret about Gloomhaven isn't that it's too complex or too long. It's that the *first* setup creates an illusion of overwhelming commitment. Once you crack that seal — once you play that first scenario and feel the satisfaction of a perfectly-timed initiative dance wiping out a room of bandits — you'll wonder why you waited so long.
+
+That 10kg box isn't a burden. It's hundreds of hours of tactical puzzles waiting for you. All you need is sandwich bags and 90 minutes.
+
+Get it off the shelf. Tonight.
