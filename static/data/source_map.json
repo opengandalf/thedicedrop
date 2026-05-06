@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T05:37:31.333263+00:00",
+  "updated": "2026-05-06T05:32:13.106256+00:00",
   "sources": {
     "bgg": {
       "color": "#ff6432",
@@ -27,18 +27,18 @@
           "description": "Take part in the United States' late 19th-century industrial boom."
         },
         {
+          "title": "Rolling Deep (BGG Hotness #3)",
+          "url": "https://boardgamegeek.com/boardgame/469746/rolling-deep",
+          "image_url": "https://cf.geekdo-images.com/pjLP-BFEXuA1inQ0jFUliA__original/img/N4JjSmTcBteHIyxN8IieOeCTPSI=/0x0/filters:format(jpeg)/pic9554804.jpg",
+          "score": 1.04,
+          "description": "Join a trio of daring dice-head adventurers descending into the heart of a restless volcano in search of glory, treasure, and the secrets at the center of the Earth. Each chapter of your journey brings new obstacles, strange tools, and terrifying creatures. Roll, adapt, and push your luck as the depths grow darker … and trust that friendship will prevail! Rolling Deep is a Balatro-inspired roguelike dice-building adventure featuring a cornucopia of unlockable content, addicting challenges, and d"
+        },
+        {
           "title": "Nippon: Zaibatsu (BGG Hotness #2)",
           "url": "https://boardgamegeek.com/boardgame/434367/nippon-zaibatsu",
           "image_url": "https://cf.geekdo-images.com/bOs_Um4cUUOpKnypCMykJA__original/img/RE_9_-ioTp31Fq_r5GZ_XKVGwzw=/0x0/filters:format(png)/pic8844519.png",
           "score": 1.02,
           "description": "Nippon: Zaibatsu is a new edition of Nippon, a fast-paced, area-majority economic game. Players control \"zaibatsu\": massive conglomerates of interconnected companies driving Japan's economy in the Industrial Revolution era. During the game, players invest in new industries, build factories and railroads, and produce goods to saturate local markets and fulfill contracts — all to grow their influence and power and to become rulers of the new modernized country. Players are free to choose their pla"
-        },
-        {
-          "title": "Lands of Evershade (BGG Hotness #1)",
-          "url": "https://boardgamegeek.com/boardgame/415848/lands-of-evershade",
-          "image_url": "https://cf.geekdo-images.com/y1OVwSAaHP-pFpYEJ9r5Zg__original/img/Gkt00tbHyP_YS-tFZB_0Wl-PSLs=/0x0/filters:format(png)/pic8061460.png",
-          "score": 1.01,
-          "description": "Lands of Evershade is a hybrid RPG/board game experience that lets players enjoy grand, richly narrated open-world adventures without a dungeon master, while keeping the game approachable and easy to learn. Start by building your perfect character using an immersive player's handbook. Choose from unique races and origins, dark secrets, and exciting classes with interesting advancements and specializations that ensure no two characters are the same. All decisions made during character creation — "
         }
       ]
     },
@@ -75,11 +75,11 @@
           "description": "My wife and I have been playing Deep Regrets a few times since we received it from the Kickstarter. At 2 players , the game just feels a bit dull and short as if 6 days ( time stated in the rule as a normal length game) is not enough to actually fish, go to port and sell your fish or buy rods, dice, for the next day at sea, and enjoy the full experience.  \n\nIt almost felt as if i llwe missed a crucial part of the rules but after watching 2 youtube videos and reading through the rules, I dont thi"
         },
         {
-          "title": "DIY Replacing Those Cheap Plastic Display Cartons?",
-          "url": "https://reddit.com/r/boardgames/comments/1t302zk/diy_replacing_those_cheap_plastic_display_cartons/",
-          "image_url": "https://i.redd.it/yjf2bqrh40zg1.jpeg",
+          "title": "Has the codemaster correctly answered this round of Mastermind?",
+          "url": "https://reddit.com/r/boardgames/comments/1t3nx44/has_the_codemaster_correctly_answered_this_round/",
+          "image_url": "https://preview.redd.it/chsvpaeok5zg1.jpg?width=2160&format=pjpg&auto=webp&s=bcaf05e14661730b1d2cfe60343ebb3bc0e1efe1",
           "score": 1.2,
-          "description": "Those cheap plastic display cartons break so easily, and this one (LotR chess) had one hole destroyed in the corner courtesy of my son and two seconds of not watching as he shoved the piece all the way through. I like the way it presents those pieces through the box window, so I’m thinking through how I might make my own since I can’t repair that plastic.\n\nHas anyone ever done this? I have black felt that I could line something with, but I don’t know how I’d form the holes in the first place.\n\nT"
+          "description": "Grew up with this game, in the uk, and just rediscovered with my kid in pub.\n\nCan't remember however how to deal with the fact that  '2 or more pegs of the same colour are allowef in the code'.\n\nHere, the codebreaker put a single red peg In their first guess:\n\nIn response, The codemaster gave: one black pin (correct colour, correct posistion) for the far-righthand red peg; plus two white pins (correct cour, wrong location) for the blue and green pegs.\n\nShould the codemaster have given an additio"
         }
       ]
     },
@@ -93,13 +93,6 @@
           "image_url": "https://i.redd.it/tymltr4dfukg1.png",
           "score": 0.76,
           "description": "There’s no time pressure, so you can take your time to plan and build up your board. Place buildings on the hex grid, some yield ingredients, some boost other buildings, some give you ducats or other boons. It’s up to you to find the ideal combination. Roll the dice and try to trigger the right tiles to produce resources, then pick a recipe and cook the right meal. Survive the dragon’s ever-growing hunger to progress to the next year. Keep it up for 20 years to win… or keep going and push your l"
-        },
-        {
-          "title": "added two fighters in version 0.5.4 of our card game",
-          "url": "https://reddit.com/r/digitaltabletop/comments/1t0lkf0/added_two_fighters_in_version_054_of_our_card_game/",
-          "image_url": "",
-          "score": 0.1,
-          "description": "The game can be summerized as Solitaire, but PvP with anime characters \\~ Early build is available from the game's discord server, while the print &amp; play can be found on Itch. io"
         },
         {
           "title": "[iOS/Android] Witchcraft! Digital version available",
@@ -116,11 +109,18 @@
           "description": "I play on board game arena. There are a lot of games that i want to try or others that i eant to get better at, but i never find an open table. Is there anyone that plays on bga and would be interested in playing with me?Im playing casually, my life doesn't depend on it! 🫪\n\nI tried this post on board games subreddit but it got removed.\n\nI'm 23,timezone is GMT+3 and the username is Katedila"
         },
         {
-          "title": "Tabletop simulator learning curve",
-          "url": "https://reddit.com/r/tabletopsimulator/comments/1spgi5s/tabletop_simulator_learning_curve/",
+          "title": "White Castle—I got 177 points!!!",
+          "url": "https://reddit.com/r/boardgamearena/comments/1sv305j/white_castlei_got_177_points/",
           "image_url": "",
           "score": 0.01,
-          "description": "I have tried many times to play games on tts, but the controls and everything, add up to where I end up giving up before being able to finish even a simple game. I mostly play solo games. Anyone else have this problem? I want to like this program for space saving reasons, since so many games take up so much space. For those of you who play tts, how long did it take you to get used to the controls to where you could actually enjoy a game? "
+          "description": "Third day playing this game on this site."
+        },
+        {
+          "title": "Now Available on Steam - Ruined King: A League of Legends Story™",
+          "url": "https://store.steampowered.com/news/101398/",
+          "image_url": "",
+          "score": 0.01,
+          "description": "Ruined King: A League of Legends Story&trade; is Now Available on Steam! Rise Against Ruin - Unite a party of League of Legends Champions, explore Bilgewater and set sail for the Shadow Isles to uncover the secrets of the deadly Black Mist in this immersive turn-based RPG."
         }
       ]
     },
@@ -129,13 +129,6 @@
       "label": "Kickstarter",
       "items": [
         {
-          "title": "Deep regrets 2 players experience",
-          "url": "https://i.redd.it/h3f0en1nj0zg1.jpeg",
-          "image_url": "https://preview.redd.it/h3f0en1nj0zg1.jpeg?auto=webp&s=ba056d92c36ea3b449c38356bfc4dd763101fc5d",
-          "score": 0.74,
-          "description": "My wife and I have been playing Deep Regrets a few times since we received it from the Kickstarter. At 2 players , the game just feels a bit dull and short as if 6 days ( time stated in the rule as a normal length game) is not enough to actually fish, go to port and sell your fish or buy rods, dice, for the next day at sea, and enjoy the full experience.  \n\nIt almost felt as if i llwe missed a crucial part of the rules but after watching 2 youtube videos and reading through the rules, I dont thi"
-        },
-        {
           "title": "Weekly Crowdfunding Roundup: March 15, 2026 | 20 ending soon (\"Labyrinth Chronicles\", \"Altered - Roots of Corruption\") &amp; 36 new (\"The Glasgow Train Robbery\", \"COMAO\")",
           "url": "https://www.kickstarter.com/projects/flatoutgames/forage-honeypot",
           "image_url": "https://external-preview.redd.it/K_i-3Tx8Shct88O_4ZYe7iAoNUZXPURZBS0BOqX5nr0.png?auto=webp&s=4fd884d5737b2bbf8d3cbfba49e99a9225b2b188",
@@ -143,25 +136,32 @@
           "description": "## What is this?\n\nThis is a weekly roundup of board game crowdfunding projects, featuring new launches from the past week and campaigns ending in the coming week. The information is sourced from Kickstarter, Gamefound, and Backerkit.\n\nThe list is curated through a combination of automated data collection and manual review, so occasional errors or omissions may occur. If you notice a missing project, feel free to mention it in the comments. Only projects meeting the selection criteria outlined be"
         },
         {
+          "title": "Deep regrets 2 players experience",
+          "url": "https://i.redd.it/h3f0en1nj0zg1.jpeg",
+          "image_url": "https://preview.redd.it/h3f0en1nj0zg1.jpeg?auto=webp&s=ba056d92c36ea3b449c38356bfc4dd763101fc5d",
+          "score": 0.29,
+          "description": "My wife and I have been playing Deep Regrets a few times since we received it from the Kickstarter. At 2 players , the game just feels a bit dull and short as if 6 days ( time stated in the rule as a normal length game) is not enough to actually fish, go to port and sell your fish or buy rods, dice, for the next day at sea, and enjoy the full experience.  \n\nIt almost felt as if i llwe missed a crucial part of the rules but after watching 2 youtube videos and reading through the rules, I dont thi"
+        },
+        {
           "title": "Weekly Crowdfunding Roundup: May 3, 2026 | 30 ending soon (\"Bloodwork: The Reckoning\", \"Earth Express and Behind the Lens\") &amp; 28 new (\"Hitman: The Board Game\", \"River Valley Jewelcraft\")",
           "url": "https://www.kickstarter.com/projects/mightyboards/yotei",
           "image_url": "https://external-preview.redd.it/K_i-3Tx8Shct88O_4ZYe7iAoNUZXPURZBS0BOqX5nr0.png?auto=webp&s=4fd884d5737b2bbf8d3cbfba49e99a9225b2b188",
-          "score": 0.29,
+          "score": 0.12,
           "description": "## What is this?\n\nThis is a weekly roundup of board game crowdfunding projects, featuring new launches from the past week and campaigns ending in the coming week. The information is sourced from Kickstarter, Gamefound, and Backerkit.\n\nThe list is curated through a combination of automated data collection and manual review, so occasional errors or omissions may occur. If you notice a missing project, feel free to mention it in the comments. Only projects meeting the selection criteria outlined be"
         },
         {
           "title": "Rock Pool Rumble &#124; Will you sink or swim? — £838 on Kickstarter (174% funded)",
           "url": "https://www.kickstarter.com/projects/designosauryeah/rock-pool-rumble-will-you-sink-or-swim",
           "image_url": "",
-          "score": 0.23,
+          "score": 0.09,
           "description": "Rock Pool Rumble &#124; Will you sink or swim? raised £838 from 25 backers on Kickstarter (174% funded)"
         },
         {
-          "title": "Fuse: Build Your Heat &#124; A Couples Game That Never Gets Old — $3K on Kickstarter (44% funded)",
-          "url": "https://www.kickstarter.com/projects/lucio-oliva/fuse-build-your-heat-a-couples-card-and-role-play-game",
+          "title": "Bastet: Egyptian Playing Cards – Aces of Egypt Series — $5K on Kickstarter (140% funded)",
+          "url": "https://www.kickstarter.com/projects/aprilgs/bastet-playing-cards",
           "image_url": "",
-          "score": 0.22,
-          "description": "Fuse: Build Your Heat &#124; A Couples Game That Never Gets Old raised $3K from 74 backers on Kickstarter (44% funded)"
+          "score": 0.08,
+          "description": "Bastet: Egyptian Playing Cards – Aces of Egypt Series raised $5K from 41 backers on Kickstarter (140% funded)"
         }
       ]
     },
@@ -170,11 +170,11 @@
       "label": "News",
       "items": [
         {
-          "title": "Crowdfunding Campaigns of the Week – 5/4/26",
-          "url": "https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-5-4-26/",
-          "image_url": "https://www.boardgamequest.com/wp-content/uploads/2026/05/CCotW-54-1024x682.jpg",
+          "title": "G.I. JOE Heroscape: Rumble at the Rift Battle Box Review",
+          "url": "https://www.boardgamequest.com/g-i-joe-heroscape-rumble-at-the-rift-battle-box-review/",
+          "image_url": "https://www.boardgamequest.com/wp-content/uploads/2026/05/GI-Joe-Heroscape-1024x868.jpg",
           "score": 0.93,
-          "description": "Welcome to this week&#8217;s batch of crowdfunding campaigns. We have a variety of offerings here, so we hope you will find something that catches your eye. Also, if you want to chat with the BGQ team, join our Discord Server where we talk about games, movies, sports, and other fun stuff. Check it out and [&#8230;] Source"
+          "description": "A little over a year ago, I took a dive into the entry-level skirmish game Heroscape. Long considered a &#8220;grail game&#8221;, Renegade Games Studios brought Heroscape back to the masses with brand new content (fully compatible with the original). Not to be content there, they have since released a number of expansions to keep the [&#8230;] Source"
         },
         {
           "title": "Crowdfunding Campaigns of the Week – 3/23/26",
@@ -198,11 +198,11 @@
           "description": "Welcome to this week&#8217;s batch of crowdfunding campaigns. We have a variety of offerings here, so we hope you will find something that catches your eye. Also, if you want to chat with the BGQ team, join our Discord Server where we talk about games, movies, sports, and other fun stuff. Or, if Facebook is [&#8230;] Source"
         },
         {
-          "title": "Castle Nightingale Game Review",
-          "url": "https://www.meeplemountain.com/reviews/castle-nightingale/",
-          "image_url": "https://www.meeplemountain.com/wp-content/uploads/2026/03/castle-nightingale-review-sharing.jpg",
+          "title": "Relic Gaming Tabletop Table Review",
+          "url": "https://www.meeplemountain.com/reviews/relic-gaming-tabletop-table/",
+          "image_url": "https://www.meeplemountain.com/wp-content/uploads/2026/05/relic-table-review-sharing.jpg",
           "score": 0.91,
-          "description": "There’s quite a bit about Castle Nightingale to catch the attention of the discerning gamer. That box, with its palette of dark blue and warm orange, stands out on a shelf. As you get closer, the colors organize into three mangy cat ninjas and a game red panda samurai, all charmingly rendered by Vincent Dutrait. That one cat making eye contact more or less dares you not to be interested. As you pick up the box, which you inevitably will, you might notice the “B. Cathala” listed alongside co-desi"
+          "description": "The Need If there's one thing all boardgamers can agree on, it's this: boardgames and their accoutrement take up a lot of room. Space is at a premium. And, if you're like me and you live in tight quarters to begin with, the idea of ever owning a nice boardgame table such as the Bandpass Firefly Board Game Table is nothing more than fantasy. In my home, we have three surfaces on which we can game: the dining room table which measures roughly 40 inches in width and 80 inches in length, a folding 4"
         }
       ]
     }
